@@ -1,0 +1,360 @@
+[
+  {
+    "name": "Challenge #01: Writing a Program - Files Setup ",
+    "module": "Class 1: Introduction, IDLE, and Turtle",
+    "description": "This challenge should take you five minutes to do; it's super easy and just intended to make sure you know how to organize, name, save, and run your Python files.\n\nCreate 3 Python files for the first couple of challenges (you will need files for challenge 9,10,11). Name them appropriately:  “Challenge9.py”, and in each file add a line the prints the name of the challenge:\n\nYou will use these files in Class 3.",
+    "links": []
+  },
+  {
+    "name": "Challenge #02: Writing a Program - Shell v. File",
+    "module": "Class 1: Introduction, IDLE, and Turtle",
+    "description": "Explain the difference between the shell and a program file in Python to your coach. You need to know this very well before we move on!",
+    "links": []
+  },
+  {
+    "name": "Supplemental Challenge #01: Writing a Program - Bio Program",
+    "module": "Class 1: Introduction, IDLE, and Turtle",
+    "description": "Write a program that prints out information about you. Add things like your favourite shows or movies, what YouTubers you like to watch, what your hobbies are, if you have any pets, if you have any siblings, etc….",
+    "links": []
+  },
+  {
+    "name": "Supplemental Challenge #02: Writing a Program - ASCII Art Program",
+    "module": "Class 1: Introduction, IDLE, and Turtle",
+    "description": "Try to create an image using print statements. Here is an example:\n\nFeel free to search for “Ascii art” online to find examples you can use.",
+    "links": []
+  },
+  {
+    "name": "Challenge #03: Variables - Data-Types",
+    "module": "Class 2: Variable and Data Types",
+    "description": "Identify the following data types:\n\nIdentify the Data Type\n\nExample\n\nData Type (String, integer, float, Boolean)\n\n“Hello there”\n\n554\n\n-667\n\n23.0\n\nTrue\n\n“Hi my name is John”\n\n“23”\n\n23.555\n\n23",
+    "links": []
+  },
+  {
+    "name": "Challenge #04: Variables - Variable Names",
+    "module": "Class 2: Variable and Data Types",
+    "description": "Create a variable name for the following cases, then specify which data type best suits the situation:\n\nVariable Naming and Categorizing\n\nCreate a variable name\n\nVariable name\n\nData Type (String, integer, float, Boolean) and example of how you would code it\n\nStoring the name of a city\n\ncityName\n\nString\n\ncityName = “Toronto”\n\nStoring the number of apples\n\nStoring the temperature with units\n\nStoring the name of a person\n\nStoring whether or not it is raining outside\n\nStoring a paragraph of information about a city\n\nStoring the grade of a course( 0-100)\n\nStoring whether or not a person passed or failed\n\nStoring currency without the units",
+    "links": []
+  },
+  {
+    "name": "Challenge #05: Variables - Find the Error",
+    "module": "Class 2: Variable and Data Types",
+    "description": "Figure out what is wrong (if there is something) in the following variable declarations:\n\nFinding Errors in Variables\n\nVariable Declaration\n\nDescribe the problem and fix it\n\nname: “John Smith”\n\nNAME = “John Smith”\n\nI_dont_know = 13\n\nnumOfApples = 69\n\nlink_word = and",
+    "links": []
+  },
+  {
+    "name": "Challenge #06: Turtle - Turtle Intro",
+    "module": "Class 2: Variable and Data Types",
+    "description": "Let’s meet Turtle, a Python “robot” that can draw on your screen!\nIn this program, you’ll notice how we use variables—they work a bit differently here than when we store text or numbers. Don’t worry about the details just yet—simply have fun experimenting with drawing using Turtle.\n\nSave the program above as Challenge6.py, then modify it so that it draws a square with each side measuring 200 pixels.",
+    "links": []
+  },
+  {
+    "name": "Challenge #07: Turtle - Rectangle",
+    "module": "Class 2: Variable and Data Types",
+    "description": "Using turtle, draw a rectangle of dimension 800px by 1500px. Call this file Challenge7.py.",
+    "links": []
+  },
+  {
+    "name": "Challenge #08: Turtle - Triangle",
+    "module": "Class 2: Variable and Data Types",
+    "description": "🖌️ How to Fill a Shape in Turtle\n\nTo fill shapes in Turtle, we use two functions:\n\nFunction\nPurpose\n\nbegin_fill()\nTells Turtle to start recording the shape outline\n\nend_fill()\nFills the shape drawn between begin_fill() and end_fill()\n\n⚠️ Important:\nEverything drawn between begin_fill() and end_fill() will be filled with the active fill color.\n\nExample:\n\nimport turtle\n\nscreen = turtle.Screen()\npen = turtle.Turtle()\n\npen.fillcolor(\"yellow\")   # Set fill color\npen.begin_fill()          # Start filling\npen.circle(80)            # Draw a circle\npen.end_fill()            # End filling\n\npen.hideturtle()\nscreen.exitonclick()\n\nChallenge :\n\nA triangle where all the sides are of the same length is called an equilateral triangle. For this challenge, draw an equilateral triangle and fill it with a color. Save the code in a file called Challenge8.py.",
+    "links": []
+  },
+  {
+    "name": "Challenge #09: Output - Social Media",
+    "module": "Class 3: Built-in Functions and Input/Output",
+    "description": "•\nOpen the file you created in Class 1 called challenge9.py.\n\n•\nCreate four variables:\n\n•\nOne variable to store the number 3.\n\n•\nThree variables called social1, social2, and social3 to store the names of your three favorite social media apps as strings.\n\n•\nUse a single print statement to display the message:\n\nTop <number> social media sites are <social1>, <social2>, <social3>\n\n•\n\n• Replace <number> with the variable that stores 3.\n\n• Replace <social1>, <social2>, and <social3> with your three favorite social media apps.",
+    "links": []
+  },
+  {
+    "name": "Challenge #10: Input - Force Planet",
+    "module": "Class 3: Built-in Functions and Input/Output",
+    "description": "In challenge10.py write the following program:\n\nIn this program you need to get input from the user, which is the the name of the user, and print it back to the screen as\n\nwhere the userName is the name the user inputs saved in a variable. Do not include the “<<” or “>>”",
+    "links": []
+  },
+  {
+    "name": "Challenge #11: Input - Bio",
+    "module": "Class 3: Built-in Functions and Input/Output",
+    "description": "In challenge11.py, write the following program:\nLet's get to know our user. Ask them the following questions and in the end show them their answers:\n\n• Where were you born?\n\n• How old are you?\n\n• What is your favourite ice cream flavour?\n\n• What is your favourite movie?\n\n• What is your favourite colour?\n\nIn the end, output the following:\n\nUse appropriate variables and substitute the information you get through input in the <<___>> spaces.",
+    "links": []
+  },
+  {
+    "name": "Supplemental Challenge #03: Input/Output - Fun Greeting Program",
+    "module": "Class 3: Built-in Functions and Input/Output",
+    "description": "Create a program that takes in a user’s name and then greets them with a joke.",
+    "links": []
+  },
+  {
+    "name": "Challenge #12: Turtle - Circle",
+    "module": "Class 4: Numeric Operators and Type Casting",
+    "description": "You will be using the Turtle module for this challenge.\n\nDraw a circle based on user input, similar to the instructions before, but use the user input for the radius of the circle. To draw a circle, you can use the circle() function. This function takes a single number as its input, which defines the radius of the circle. For example, turtle.circle(x), where x is the radius used to draw a circle of the specified size.",
+    "links": []
+  },
+  {
+    "name": "Challenge #13: Casting - Addition",
+    "module": "Class 4: Numeric Operators and Type Casting",
+    "description": "Write a program and save it in a file called challenge14.py\n\nComplete the following program:\n\nNote: In Python, whatever line is written with # in front of it is a comment; it means this line is ignored in code and is only for the developer to read. In this case we use # to describe what you need to do in the next lines to finish the code.",
+    "links": []
+  },
+  {
+    "name": "Challenge #14: Casting - Birth Year",
+    "module": "Class 4: Numeric Operators and Type Casting",
+    "description": "Write a program and save it in a file called challenge15.py. In your program you need to get the age of the user, calculate the year they were born, and print that back on the screen:\n\nThe year the user was born is yyyy.",
+    "links": []
+  },
+  {
+    "name": "Challenge #15: Casting - Tax Calculator",
+    "module": "Class 4: Numeric Operators and Type Casting",
+    "description": "Write a program that takes the price of 3 items and adds them all together and prints the total price + tax.\nYou can assume that the prices are of type int, and tax is 15% of the total (so multiply by 1.15)\nFor example:",
+    "links": []
+  },
+  {
+    "name": "Challenge #16: Casting - Pizza Slices",
+    "module": "Class 4: Numeric Operators and Type Casting",
+    "description": "Students keep arguing over how many pizza slices each of them should get.\nThey are not great at mental math, so they have asked you to help.\n\nThis time, the total number of pizza slices will be randomly generated using Python’s random module.\n\nTask\n\nCreate a program that:\n\n• Generates a random number of pizza slices (e.g., between 1 and 24).\n\n• Asks the user how many students there are.\n\n• Calculates:\n\n• How many slices each student gets (rounded down)\n\n• How many slices are left over\n\n• Prints the results.\n\nHints\n\n• Use import random\n\n• To generate a random number between 1 and 24:\n\n•\nrandom.randint(1, 24)\n\n• Use // (floor division) to divide slices equally.\n\n• Use % (modulus) to find the leftover slices.\n\nExample Output\n\nThere are 17 total pizza slices today!\n\nHow many students are here? 5\n\nEach student gets 3 slice(s).\n\nThere will be 2 slice(s) left over.",
+    "links": []
+  },
+  {
+    "name": "DISCTD. Challenge #12: Turtle - Input Square",
+    "module": "Class 4: Numeric Operators and Type Casting",
+    "description": "You will be using the Turtle module for this challenge.\n\nDraw a square using user input. Ask the user for the length of each side. For example if the user enters 100, draw a square that has 4 sides of size 100.",
+    "links": []
+  },
+  {
+    "name": "Supplemental Challenge #04: Type Casting and Numerical Operators - GPA Calculator",
+    "module": "Class 4: Numeric Operators and Type Casting",
+    "description": "Ask a user for their grades, then tally them all up and calculate the average.",
+    "links": []
+  },
+  {
+    "name": "Challenge #17: Strings - String Manipulation",
+    "module": "Class 5: String Manipulation",
+    "description": "Create a program that takes 2 strings of length 10 and prints out:\n\n• The strings added together\n\n• The strings repeated 3 times\n\n• The strings converted to Uppercase AND added together\n\n• The strings converted to Lowercase AND repeated 5 times\n\n• The character at the 3rd index of each string\n\n• Both the strings sliced from index 3 to index 9",
+    "links": []
+  },
+  {
+    "name": "Challenge #18: Strings - Username and Password",
+    "module": "Class 5: String Manipulation",
+    "description": "Create a program that validates the username and password of the user.\n\n• It should ask for input of the username and check that the username is all alphabetical--print true or false accordingly.\n\n• It should also ask for the password of the user and check that the password is all digits--print true or false accordingly.",
+    "links": []
+  },
+  {
+    "name": "Challenge #19: Strings - Urgent Message",
+    "module": "Class 5: String Manipulation",
+    "description": "A program is needed to check if the message sent is an urgent message.\n\n• Get input from the user, which is a message.\n\n• Print the length of the message.\n\n• Remove all leading and trailing spaces from the message.\n\n• Print the length of the message again, after the spaces are removed.\n\n• Check if the message contains “911” and print out at which index it does; if not print -1.",
+    "links": []
+  },
+  {
+    "name": "Challenge #20: Strings - Magical Story Validator",
+    "module": "Class 5: String Manipulation",
+    "description": "Create a program that checks if a story a person types is a “magical story.” A magical story must meet all three conditions:\n\n• It starts with either \"Once upon a time\" or \"Long ago in a faraway land\" (ignore the case).\n\n• It contains at least one magical creature, such as \"dragon\", \"unicorn\", \"fairy\", or \"wizard\" (ignore the case).\n\n• It ends with \"THE END\" (ignore the case).\n\nThe program should:\n\n• Take input from the user (the story).\n\n• Check all three conditions in a case-insensitive way.\n\n• Print True if all conditions are met, otherwise print False.\n\n• Print which condition(s) failed if the story is not magical.\n\nExample:\n\nInput: once upon a time, a brave knight met a DRAGON. the end\n\nOutput: True\n\nInput: Long ago in a faraway land, a princess danced in the castle.\n\nOutput: False (missing magical creature, missing THE END)",
+    "links": []
+  },
+  {
+    "name": "Supplemental Challenge #05: String Manipulation - Username Creator",
+    "module": "Class 5: String Manipulation",
+    "description": "Create a program that takes a user’s name, and their birth day, birth month, and birth year, then creates a user name like:\n\n<name><birth day><birth month><birth year>\n\nSo if your name is: Odin\n\nBirth day is: 31\n\nBirth month is: 05\n\nBirth year is: 2005\n\nOdin’s user name should be: Odin31052005",
+    "links": []
+  },
+  {
+    "name": "Challenge #21: Flow Charts",
+    "module": "Class 6: Branching Logic (if-statements) and Boolean Operators",
+    "description": "Task 1 — Read-Write Problem\n\nCreate a flowchart that:\n\nReads two numbers from the user, adds them, and displays the result.\n\nRequirements:\n\n• Start / End\n\n• Input two numbers\n\n• Add the numbers\n\n• Output the sum\n\nTask 2 — Summation Problem\n\nCreate a flowchart that:\n\nContinuously reads numbers from the user and calculates the total sum.\nStop when the user enters 0, then display the final total.\n\nRequirements:\n\n• At least one loop (repeated input)\n\n• At least one decision (check if number = 0)\n\n• Maintain running total\n\n• Display final sum after termination\n\nDeliverables\n\nSubmit:\n\n• Flowchart for Task 1\n\n• Flowchart for Task 2\n\nFormat: PDF, PNG, or diagram link",
+    "links": []
+  },
+  {
+    "name": "Challenge #22: Branching Logic -  E-Input Checked",
+    "module": "Class 6: Branching Logic (if-statements) and Boolean Operators",
+    "description": "Write a program that checks if the input string has an “e\", and if it does, print \"Has e\". Otherwise, print “invalid input”. Remember you can use string functions that you learned before to help you.",
+    "links": []
+  },
+  {
+    "name": "Challenge #23: Branching Logic - The Behemoth",
+    "module": "Class 6: Branching Logic (if-statements) and Boolean Operators",
+    "description": "Write a program that checks the height of the person and determines if they are allowed on the roller coaster, The Behemoth. You are only allowed to go on The Behemoth if you are taller than 4 feet.",
+    "links": []
+  },
+  {
+    "name": "Challenge #24: Branching Logic  - Amusement Park",
+    "module": "Class 6: Branching Logic (if-statements) and Boolean Operators",
+    "description": "Extend challenge 23 to add the following rides and height restrictions; the program should print ALL rides the users are allowed to go on.\n\nRide and Height Requirement\n\nRide\n\nHeight\n\nVortex, Lumber Jack, Flying Canoes\n\n48 inches\n\nFlight Deck, Behemoth, Leviathan\n\n54 inches\n\nTree Top Adventure, Taxi Jam, Sugar Shack\n\n40 inches",
+    "links": []
+  },
+  {
+    "name": "Challenge #25: Branching Logic - Guessing Game",
+    "module": "Class 6: Branching Logic (if-statements) and Boolean Operators",
+    "description": "Generate a random number between 1 and 5, and ask the user to guess the number. If the user guesses correctly, congratulate the user on guessing correctly; if not, wish them good luck next time.\n\nYou can generate a random number like this:\n\nThe code above generates a random number between 1 and 5; note that it will include the second number in the range. In general, here is how you use randint:\n\nThe following video provides more detail:",
+    "links": [
+      "https://iframe.mediadelivery.net/embed/711340/85b12c86-1b94-4653-b22d-7873532294e8?autoplay=false&preload=false"
+    ]
+  },
+  {
+    "name": "Challenge #26: Random Money Action",
+    "module": "Class 6: Branching Logic (if-statements) and Boolean Operators",
+    "description": "Write a Python program that:\n\n• Asks the user how much money they have (an integer)\n\n• Generates a random integer between 1 and 5\n\n• Uses a match statement to perform an action on the money based on the random number\n\n• Prints the random number and the updated amount of money\n\nActions\n\nCase\nAction\n\n1\nAdd $5\n\n2\nSubtract $3\n\n3\nDouble your money\n\n4\nHalve your money (integer division)\n\n5\nLose all your money (reset to $0)\n\nDefault\nPrint “No action”\n\nExample Output\n\nEnter your money: 10\n\nRandom number: 3\n\nYou now have $20",
+    "links": []
+  },
+  {
+    "name": "Supplemental Challenge #06: Branching Logic - Horoscope Program",
+    "module": "Class 6: Branching Logic (if-statements) and Boolean Operators",
+    "description": "Get the user's zodiac sign and give them a prediction based on the sign.",
+    "links": []
+  },
+  {
+    "name": "Challenge #27: Lists - Travel Wishlist",
+    "module": "Class 7: Python Basic Data Structures and Lists",
+    "description": "Create a program that displays the following menu for a user to manage their travel destination wish list:\n\n• Add a travel destination\n\n• Find a travel destination\n\n• Remove a travel destination\n\n• Sort destinations by alphabet\n\n• Count destinations\n\nIf the user enters 1, you will ask them which travel destination they want to add and add it to a list of destinations, and then print the list of destinations.\n\nIf a user enters 2, ask them which destination they want to find, if it is in the list print the index of the destination. Do as the description states for all other menu items.\n\nYou can have a default list to begin.",
+    "links": []
+  },
+  {
+    "name": "Challenge #28: Lists - Grocery list",
+    "module": "Class 7: Python Basic Data Structures and Lists",
+    "description": "Create a program that manages a grocery list for the user:\n\n• Add grocery item\n    - Input - item to add\n    - Output - new list\n\n• Print grocery list\n    - Input - none\n    - Output - grocery list printed\n\n• Sort grocery items\n    - Input - none\n    - Output - sorted list\n\n• Remove grocery item\n    - Input- item to remove\n    - Output - new list\n\n• Count groceries\n    - Input - none\n    - Output - number of items in list\n\n• Replace grocery item\n    - Input - item to be replace\n    - Input - new item to replace with\n    - Output - new list\n\nDo as the description states for all menu items. You can have a default list to begin.",
+    "links": []
+  },
+  {
+    "name": "Supplemental Challenge #07: Lists - Riddler",
+    "module": "Class 7: Python Basic Data Structures and Lists",
+    "description": "The time module in Python allows you to stop the program for a few seconds. For this challenge, we can use this module to build some suspense. To pause the program for a second, we can use the following code:\n\nHere is another example; try it to see how the time module works:\n\nYour challenge is to create a list of riddles, and then every time the program is run, show a user a random riddle and then show the answer after three seconds.",
+    "links": []
+  },
+  {
+    "name": "Challenge #29: Loops - Bottles of Milk",
+    "module": "Class 8: Repeated Logic (While Loops)",
+    "description": "Write a Python program that prints the lyrics of the famous “99 Bottles of Milk” song. Your program should:\n\n• Start with 99 bottles of milk on the wall.\n\n• Repeat the verses, counting down by one bottle each time.\n\n• Handle the singular form correctly when there is 1 bottle.\n\n• End with the verse for no more bottles and suggest going to the store to buy more.\n\nExample Output\n\n99 bottles of milk on the wall, 99 bottles of milk.\nTake one down and pass it along, 98 bottles of milk on the wall.\n\n...\n\n2 bottles of milk on the wall, 2 bottles of milk.\nTake one down and pass it along, 1 bottle of milk on the wall.\n\n1 bottle of milk on the wall, 1 bottle of milk.\nTake one down and pass it along, no more bottles of milk on the wall.\n\nNo more bottles of milk on the wall, no more bottles of milk.\nGo to the store and buy some more, 99 bottles of milk on the wall.\n\nHints\n\n• Use a loop to count down from 99 to 1.\n\n• Use conditional statements to handle singular vs. plural: \"bottle\" vs. \"bottles\".\n\n• Print the final verse after the loop.",
+    "links": []
+  },
+  {
+    "name": "Challenge #30: Loops - Remove Vowels",
+    "module": "Class 8: Repeated Logic (While Loops)",
+    "description": "Write a Python program that:\n\n• Prompts the user to enter a sentence.\n\n• Uses a while loop to remove all vowels (a, e, i, o, u) from the sentence.\n\n• Prints the resulting sentence back to the screen.\n\nExample\n\nInput:\n\nEnter a sentence: Hello, how are you?\n\nOutput:\n\nHll, hw r y?\n\nHints\n\n• Use a counter variable to keep track of the current character index.\n\n• Use the while loop to iterate through each character in the sentence.\n\n• Add characters that are not vowels to a new string.\n\n• Remember to handle uppercase and lowercase vowels.",
+    "links": []
+  },
+  {
+    "name": "Challenge #31: Number Guessing with Warnings",
+    "module": "Class 8: Repeated Logic (While Loops)",
+    "description": "Write a Python program that:\n\n•\nGenerates a random number between 1 and 50.\n\n• Allows the user to guess the number repeatedly using a while loop.\n\n• Implements the following rules inside the loop:\n\n• If the user enters a number less than 1 or greater than 50, print a warning and skip that iteration using continue.\n\n• If the user guesses the correct number, print a congratulatory message and exit the loop using break.\n\n• Otherwise, tell the user if the guess is too high or too low.\n\nHints\n\n• Use import random and random.randint(1, 50) to generate the secret number.\n\n• Use continue to handle invalid guesses (out of range).\n\n• Use break to stop the loop when the user guesses correctly.\n\nExample Run\n\nGuess the number between 1 and 50: 60\nInvalid input! Number must be between 1 and 50.\n\nGuess the number between 1 and 50: -5\nInvalid input! Number must be between 1 and 50.\n\nGuess the number between 1 and 50: 25\nToo low! Try again.\n\nGuess the number between 1 and 50: 42\nCongratulations! You guessed it!",
+    "links": []
+  },
+  {
+    "name": "Supplemental Challenge #08: Repeated Logic (While Loops) - Pyramids",
+    "module": "Class 8: Repeated Logic (While Loops)",
+    "description": "Create a program that asks a user for a number and then uses it to create a pyramid like so:\n\nFor input 5, output:\n\n*\n\n**\n\n***\n\n****\n\n*****",
+    "links": []
+  },
+  {
+    "name": "Challenge #32: For Loops - Sentence Splitter",
+    "module": "Class 9: For loops",
+    "description": "Write a program to get a word from the user and display all of its characters separately.\n\nFor example:\n\nPlease enter a word: T-REX\n\nT\n-\nR\nE\nX",
+    "links": []
+  },
+  {
+    "name": "Challenge #33: For Loops - Count Down",
+    "module": "Class 9: For loops",
+    "description": "Write a Python program to:\n\n•\nCount down numbers from 100 to 80, decreasing by 2 each time.\n\n•\nPrint each number on the screen.\n\nHints\n\n• Use the range() function with three arguments: start, stop, and step.\n\n• Remember: the stop value in range() is exclusive, so adjust it accordingly.\n\n• The step can be negative to count down.",
+    "links": []
+  },
+  {
+    "name": "Challenge #34: For Loops - Re-write",
+    "module": "Class 9: For loops",
+    "description": "Rewrite challenge 29, 30, and 31 using a FOR loop.",
+    "links": []
+  },
+  {
+    "name": "Challenge #35: For Loops - Multiplication Table",
+    "module": "Class 9: For loops",
+    "description": "Get an input number from the user and print its multiplication table up til' 20.\n\nFor example:\n\nPlease enter a number: 2\n\n2,4,6,8,10,12,14,16,18,20,22,24,26,28,30,32,34,36,38,40.",
+    "links": []
+  },
+  {
+    "name": "Challenge #36: For Loops - Stick Man ",
+    "module": "Class 9: For loops",
+    "description": "We are going to create a Stick Man like program. Make sure you test every step properly before you move on to the next one.\n\n• Make a list to store 10 words.\n\n• Pick a random word from the list and save it somewhere.\n\n• Print the length of the random word.\n\n• Give players 5 chances to guess the letters in the word while giving them appropriate success and failure messages.\n\n• Hint: you can use if i in word - to check if a particular letter is in the word.\n\n• On the 6th attempt, ask them to guess the whole word. Compare the randomly selected words with the user’s guess; if it is correct, the user wins.",
+    "links": []
+  },
+  {
+    "name": "Challenge #37: For Loops - Encryption ",
+    "module": "Class 9: For loops",
+    "description": "Write a program to get a sentence from the user. Only lower case letters will be typed, except for a space character. Shift all the characters by 1 position.\n\nFor example – character ‘a’ should become ‘b’, ‘b’ should become ‘c’ and so on, with ‘z’ becoming to ‘a’.\n\ne.g.\nInput: “try to take road less traveled”\nOutput: “usz up ublf spbe mftt usbwfmfe”\n\nHint: Ask your coach to explain ASCII values to you. It will help a lot with this challenge.",
+    "links": []
+  },
+  {
+    "name": "Challenge #38: For Loops - Encryption II",
+    "module": "Class 9: For loops",
+    "description": "This is the same as encryption 1 (challenge 37), but the first input from the user should tell how many characters need to be shifted; it can range from 1 to 25. In Encryption 1, you shifted all characters by 1 position; now the user can choose any number between 1 and 25, and the program should be able to shift and encrypt.",
+    "links": []
+  },
+  {
+    "name": "Supplemental Challenge #09: For Loops - Vowel Counter",
+    "module": "Class 9: For loops",
+    "description": "Create a program that takes input from a user and prints out the indexes of all the characters in the string. For example if given \"Hello World\", your output should look like:\n\nH => 0\n\ne => 1\n\nl => 2\n\nl => 3\n\no => 4\n\n => 5\n\nW => 6\n\no => 7\n\nr => 8\n\nl => 9\n\nd => 10",
+    "links": []
+  },
+  {
+    "name": "Supplemental Challenge #10: For Loops - Index Of Improved",
+    "module": "Class 9: For loops",
+    "description": "Ask the user for a string . Then ask them for a character they want the index of:\n\n• If the string is empty, return a -1\n\n• If the string doesn’t contain the character they asked for, return a -1\n\n• If the character exists\n\n• Find all the occurrences of the character and add the indexes to a list\n\nFor example:\n\nHello World would return:\n\nFor character ‘x’ => -1\n\nFor character ‘e’ => [1]\n\nFor character ‘o’ => [4, 7]\n\nFor character ‘l’ => [2,3,9]",
+    "links": []
+  },
+  {
+    "name": "Challenge #39: Dictionaries - Animal Names",
+    "module": "Class 10: Tuples, Sets, and Dictionaries",
+    "description": "Create a dictionary of animals and the name of their babies as Key-Value pair. Use the list below for guidance, or you can add your own. The users should be able to check what an animal’s babies are called. If the list does not have the animal a user enters, tell the user that the animal is not on the list.\n\nList of animals and their babies:\nhippo -> calf\nhorse -> foal\ndog -> pup\nkangaroo -> joey\nmonkey -> infant\nowl -> owlet\nparrot -> chick\nrabbit -> bunny\nrat -> pup\ncow -> calf\nskunk -> kit\nsheep -> lamb",
+    "links": []
+  },
+  {
+    "name": "Challenge #40: Organize a Classroom Database with Tuples, Sets, and Lists",
+    "module": "Class 10: Tuples, Sets, and Dictionaries",
+    "description": "You are asked to create a simple database for a classroom. The data you need to store is:\n\n•\nStudent Names → each student has a unique ID.\n\n•\nSubjects Taken by Each Student → each student can take multiple subjects, but no duplicates.\n\n•\nBirthdates of Each Student → stored as components: year, month, day; birthdates are immutable once entered.\n\n•\nBooks Read by Each Student → a student can read multiple books, including repeated books, in order of reading.\n\nTask\n\n• Create a dictionary where:\n\n• Keys are student IDs.\n\n• Values are a combination of tuples, sets, and lists, depending on the type of data.\n\n• Decide which data structure fits each type of data:\n\n•\nTuple → immutable data (birthdate components).\n\n•\nSet → unique items (subjects).\n\n•\nList → ordered data, possibly with duplicates (books read).\n\n• Print out the dictionary in a readable format.\n\nExample Output:\n\nID: S001, Birthdate: ('2005', '08', '15'), Subjects: {'Math', 'Science'}, Books Read: ['Harry Potter', '1984', 'Harry Potter']\nID: S002, Birthdate: ('2006', '03', '22'), Subjects: {'Math', 'English', 'Art'}, Books Read: ['The Hobbit', '1984']\nID: S003, Birthdate: ('2005', '12', '10'), Subjects: {'History', 'Science'}, Books Read: ['Harry Potter', 'The Hobbit', 'The Hobbit']",
+    "links": []
+  },
+  {
+    "name": "Challenge #41: Dictionaries - Animal Menu",
+    "module": "Class 10: Tuples, Sets, and Dictionaries",
+    "description": "We will add onto the code from Challenges 26 and 27. Create a Menu for the user to select as seen below:\n\nFor a explanation of how to add a menu to your video, watch the following video:\n\nNote: You can also effectively use a \"match\" statement to manage the actions based on a menu.",
+    "links": [
+      "https://iframe.mediadelivery.net/embed/711340/bfdd9631-283d-4faf-bcfe-83da2ffc5d28?autoplay=false&preload=false"
+    ]
+  },
+  {
+    "name": "Supplemental Challenge #11: Dictionary - Letter Counter",
+    "module": "Class 10: Tuples, Sets, and Dictionaries",
+    "description": "Get a string from a user and then create a dictionary that keeps track of how many times each letter occurs in the string.\n\nFor example:\n\nWhen given the string: “Hello World”\n\nCreate the dictionary: {“d”: 1,“e”: 1, “h”: 1, “l”:3, “o”: 2, “r”: 1, “w”: 1}",
+    "links": []
+  },
+  {
+    "name": "Challenge #42: Functions - Max Number",
+    "module": "Class 11: User-defined Functions",
+    "description": "Write a function named get_maximum that takes two numeric inputs and returns the larger of the two values.\nUse clear and descriptive variable names, and ensure the function handles cases where both numbers are equal.\n\nExample Behavior\n\nget_maximum(10, 20)  ➝  20\n\nget_maximum(5, 5)    ➝  5\n\nRequirements\n\n• Use meaningful function and parameter names.\n\n• The function must return the greater value.\n\n• If both values are equal, the function should return either one.",
+    "links": []
+  },
+  {
+    "name": "Challenge #43: Functions - Fizz Buzz ",
+    "module": "Class 11: User-defined Functions",
+    "description": "Create a function named fizz_buzz that accepts one number as input and returns:\n\n•\n\"Fizz\" if the number is divisible by 3\n\n•\n\"Buzz\" if the number is divisible by 5\n\n•\n\"FizzBuzz\" if the number is divisible by both 3 and 5\n\n• The number itself if none of the above conditions apply\n\nAfter defining the function, call it with three different numbers and print the results.\n\nExample Behavior\n\nfizz_buzz(3)      ➝ \"Fizz\"\n\nfizz_buzz(5)      ➝ \"Buzz\"\n\nfizz_buzz(15)     ➝ \"FizzBuzz\"\n\nfizz_buzz(7)      ➝ 7\n\nRequirements\n\n• Use appropriate function and variable names.\n\n• Ensure correct order of condition checks.\n\n• Print the result for three sample inputs.",
+    "links": []
+  },
+  {
+    "name": "Challenge #44: Functions - Show Stars",
+    "module": "Class 11: User-defined Functions",
+    "description": "Write a function called show_stars(rows). If rows is 5, it should print the following:",
+    "links": []
+  },
+  {
+    "name": "Challenge #45: Functions - Greeter",
+    "module": "Class 11: User-defined Functions",
+    "description": "• Write a function greeter(name) that takes in a person's name and prints out a greeting.\n\n• The greeting must be at least three lines, and the person's name must be in each line.\n\n• Use your function to greet at least three different people.\n\n• Bonus: Store your three people in a list, and call your function from a for loop.",
+    "links": []
+  },
+  {
+    "name": "Challenge #46: Functions - Driver Speed Evaluation Simulation",
+    "module": "Class 11: User-defined Functions",
+    "description": "In this challenge, you will build a program that simulates multiple driving events and calculates demerit points based on how fast a driver travels compared to a randomly selected speed limit.\n\nYour solution will include two functions:\n\nFunction 1 (helper function): evaluate_drive(avg_speed, speed_limit)\n\nPurpose\n\nEvaluates a driver’s average speed against a given speed limit, and returns the number of demerit points earned.\n\nRules\n\n• If the driver’s speed is within or below the speed limit, return 0 points.\n\n• If the driver exceeds the speed limit:\n\n• Award 1 demerit point for every 10 km/h over the speed limit\n(e.g., 15 km/h over → 1 point; 25 km/h over → 2 points)\n\nReturn Value\n\n•\nAn integer representing the number of demerit points.\n\nFunction 2 (primary function): run_driver_simluation()\n\nPurpose\n\nRuns a full simulation of multiple driving events, using evaluate_drive() to determine the demerit points for each drive.\n\nSteps\n\n• Display a simulation header.\n\n• Create a list of possible speed limits:[50, 60, 70, 80]\n\n• Ask the user how many drives they want to evaluate.\n\n• For each simulated drive:\n\n•\n\n• Randomly choose a speed limit from the list using random.choice().\n\n• Randomly generate the driver’s speed (within ±40 km/h of the speed limit).\n\n• Pass both values to evaluate_drive() and get the demerit points.\n\n• Add the returned demerit points to a running total.\n\n• Print:\n\n• Speed limit\n\n• Driver speed\n\n• Demerit points from the drive\n\n• Total accumulated demerit points\n\n• If total demerit points reach 12 or more, stop the simulation immediately and print:\n\n•\n\n• \"Immediate suspension triggered!\"\n\n• \"License suspended. You cannot continue driving.\"\n\n• After all drives finish (or an early stop), print the final result.\n\nProgram Execution\n\nAt the end of the file, call:\n\nrun_driver_simluation()\n\nto start the simulation.\n\nHints\n\nrandom.choice()\n\nrandom.choice(sequence) selects one random element from a list (or any sequence).\n\nExample:\n\nspeed_limits = [50, 60, 70, 80]\nspeed_limit = random.choice(speed_limits)\n\nThis will randomly assign one of the values (50, 60, 70, or 80) to speed_limit each time it is called.\n\nThis allows every simulated drive to have a different speed limit.",
+    "links": []
+  },
+  {
+    "name": "Challenge #1000: Finished Level",
+    "module": "Level Completion",
+    "description": "🐢 Project Introduction — “The Great Turtle Grand Prix”\n\nWelcome to the Great Turtle Grand Prix, where six fearless, color-splashed champions line up on a dazzling track for the race of a lifetime!\nEach turtle is unique, each lane is vibrant, and only one will claim the glory.\nIn this whimsical and colorful showdown, chance determines victory—every step forward is a surprise!\nSo sit back and cheer on your favorite racer as they sprint (well… turtle-sprint) toward the checkered finish line!\n\n📘 Project Synopsis\n\nThis project uses Python’s turtle graphics module to create a playful race between multiple turtles.\nAlong a decorated racetrack, turtles move forward by random distances, simulating an unpredictable race.\nThe first turtle to cross the finish line is crowned the winner, followed by a celebratory announcement and fireworks.\nThe project emphasizes simple animation, randomness, and interactivity—making it a fun beginner-friendly way to explore Python graphics.\n\n✅ Steps to Run & Understand the Project\n\n•\nSetup\n\n• Install Python (if not already installed).\n\n• Ensure the turtle and random modules are available (they are built-in to Python).\n\n•\nCreate the Game\n\n• Import turtle for graphics and random for unpredictable motion.\n\n• Initialize the screen with size, title, and background color.\n\n•\nDraw the Track\n\n• Draw an outer border.\n\n• Draw track lanes.\n\n• Create a finish line with a checkered effect.\n\n• Add a title banner.\n\n•\nPrepare the Racers\n\n• Create multiple turtle racers in different colors.\n\n• Position them at the starting line.\n\n•\nRun the Race\n\n• Use a loop to move each turtle forward randomly.\n\n• Continue until one crosses the finish line.\n\n•\nDeclare the Winner\n\n• Identify the turtle that finishes first.\n\n• Display a celebratory message in its color.\n\n• Trigger a simple fireworks animation.\n\n•\n Keep the Window Open\n\n• Allow the user to see final results until they close the window.\n\n•",
+    "links": []
+  }
+]

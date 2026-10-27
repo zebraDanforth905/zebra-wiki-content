@@ -1,0 +1,6 @@
+print("My name is Jordan.")
+print("My favourite show is Avatar: The Last Airbender.")
+print("My favourite YouTuber is Mark Rober.")
+print("My hobbies are skateboarding and drawing.")
+print("I have a dog named Biscuit.")
+print("I have one younger sister.")
