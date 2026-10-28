@@ -1,0 +1,1 @@
+Python a general-purpose language. design emphasizes readability the of indentation. is type-checked garbage-collected. supports programming including (particularly object-oriented functional

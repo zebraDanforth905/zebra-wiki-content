@@ -1,0 +1,15 @@
+Alice:Salad
+John:Brownies
+Maria:Pasta
+David:Fruit Platter
+Sophie:Cookies
+Liam:Pizza
+Emma:Sandwiches
+Noah:Drinks
+Olivia:Guacamole
+Ethan:Garlic Bread
+Ava:Veggie Wraps
+James:Cheese Platter
+Isabella:Chocolate Cake
+Benjamin:Nachos
+Mia:Mini Cupcakes

@@ -1,0 +1,46 @@
+fileObj = open("party_data.txt", "r")
+lines = fileObj.readlines()
+fileObj.close()
+
+party = {}
+for line in lines:
+    line = line.strip()
+    if line == "":
+        continue
+    guest, dish = line.split(":")
+    party[guest] = dish
+
+option = 0
+while option != 5:
+    print("\n1) View all guests and dishes")
+    print("2) Add a new guest and dish")
+    print("3) Update a guest's dish")
+    print("4) Remove a guest")
+    print("5) Save and Quit")
+    option = int(input("Choose an option: "))
+
+    if option == 1:
+        for guest in party:
+            print(guest + " is bringing " + party[guest])
+    elif option == 2:
+        guest = input("Guest name: ")
+        dish = input("Dish: ")
+        party[guest] = dish
+    elif option == 3:
+        guest = input("Which guest? ")
+        if guest in party:
+            party[guest] = input("New dish: ")
+        else:
+            print("That guest is not on the list.")
+    elif option == 4:
+        guest = input("Which guest to remove? ")
+        if guest in party:
+            del party[guest]
+    elif option == 5:
+        outObj = open("party_data.txt", "w")
+        for guest in party:
+            outObj.write(guest + ":" + party[guest] + "\n")
+        outObj.close()
+        print("Saved. Goodbye!")
+    else:
+        print("Invalid option!")
