@@ -1,0 +1,152 @@
+[
+  {
+    "name": "Challenge #01: Know the Terms",
+    "module": "Class 1: What is Artificial Intelligence",
+    "url": "https://lms.zebrarobotics.com/courses/2757/assignments/56646"
+  },
+  {
+    "name": "Challenge #02:  Know their History and Future ",
+    "module": "Class 1: What is Artificial Intelligence",
+    "url": "https://lms.zebrarobotics.com/courses/2757/assignments/56648"
+  },
+  {
+    "name": "Challenge #03:  Types of AI",
+    "module": "Class 1: What is Artificial Intelligence",
+    "url": "https://lms.zebrarobotics.com/courses/2757/assignments/56647"
+  },
+  {
+    "name": "Challenge #04: What Type of Data is This?",
+    "module": "Class 2: Understanding Data",
+    "url": "https://lms.zebrarobotics.com/courses/2757/assignments/56649"
+  },
+  {
+    "name": "Challenge #05: Structured, Semi-Structured, or Unstructured Data",
+    "module": "Class 2: Understanding Data",
+    "url": "https://lms.zebrarobotics.com/courses/2757/assignments/56650"
+  },
+  {
+    "name": "Challenge #06: Math Helper AI",
+    "module": "Class 2: Understanding Data",
+    "url": "https://lms.zebrarobotics.com/courses/2757/assignments/56651"
+  },
+  {
+    "name": "Challenge #07: Ice Cream Booth Revenue Analysis",
+    "module": "Class 2: Understanding Data",
+    "url": "https://lms.zebrarobotics.com/courses/2757/assignments/56652"
+  },
+  {
+    "name": "Challenge #08: Toronto Daily Temperatures",
+    "module": "Class 2: Understanding Data",
+    "url": "https://lms.zebrarobotics.com/courses/2757/assignments/56653"
+  },
+  {
+    "name": "Challenge #09: Smart Greenhouse Temperature Control",
+    "module": "Class 3: Introduction to Algorithms",
+    "url": "https://lms.zebrarobotics.com/courses/2757/assignments/56654"
+  },
+  {
+    "name": "Challenge #10: City Traffic Flow Analysis",
+    "module": "Class 3: Introduction to Algorithms",
+    "url": "https://lms.zebrarobotics.com/courses/2757/assignments/56655"
+  },
+  {
+    "name": "Challenge #11: Fair Water Fountain Placement Simulation",
+    "module": "Class 3: Introduction to Algorithms",
+    "url": "https://lms.zebrarobotics.com/courses/2757/assignments/56656"
+  },
+  {
+    "name": "Challenge #12: File Folder Size Calculation",
+    "module": "Class 4: Using Python to Work with Data and Algorithms",
+    "url": "https://lms.zebrarobotics.com/courses/2757/assignments/56657"
+  },
+  {
+    "name": "Challenge #13: Counting Menu Combos",
+    "module": "Class 4: Using Python to Work with Data and Algorithms",
+    "url": "https://lms.zebrarobotics.com/courses/2757/assignments/56658"
+  },
+  {
+    "name": "Challenge #17: Predictive Data Pattern - Toy Store Sales vs Advertising Hours",
+    "module": "Class 6: Patterns of Data",
+    "url": "https://lms.zebrarobotics.com/courses/2757/assignments/56661"
+  },
+  {
+    "name": "Challenge #18: Popular Generative AI Platforms",
+    "module": "Class 6: Patterns of Data",
+    "url": "https://lms.zebrarobotics.com/courses/2757/assignments/56662"
+  },
+  {
+    "name": "Challenge #19: Extracting Information Using Regular Expressions (Regex)",
+    "module": "Class 7: Introduction to Text Mining",
+    "url": "https://lms.zebrarobotics.com/courses/2757/assignments/56663"
+  },
+  {
+    "name": "Challenge #20: Sentiment Analysis and Word Clouds",
+    "module": "Class 7: Introduction to Text Mining",
+    "url": "https://lms.zebrarobotics.com/courses/2757/assignments/56664"
+  },
+  {
+    "name": "Challenge #21: Image Processing with Pillow",
+    "module": "Class 8: Introduction to Image Processing",
+    "url": "https://lms.zebrarobotics.com/courses/2757/assignments/56665"
+  },
+  {
+    "name": "Challenge #22: Enhance an Image",
+    "module": "Class 8: Introduction to Image Processing",
+    "url": "https://lms.zebrarobotics.com/courses/2757/assignments/56666"
+  },
+  {
+    "name": "Challenge #23: Enhance an Image II",
+    "module": "Class 8: Introduction to Image Processing",
+    "url": "https://lms.zebrarobotics.com/courses/2757/assignments/59734"
+  },
+  {
+    "name": "Challenge #28: Fix Zara’s AI Drink Machine",
+    "module": "Class 10: Training AI",
+    "url": "https://lms.zebrarobotics.com/courses/2757/assignments/56669"
+  },
+  {
+    "name": "Challenge #29: Sunny Lemonade Stand",
+    "module": "Class 10: Training AI",
+    "url": "https://lms.zebrarobotics.com/courses/2757/assignments/56670"
+  },
+  {
+    "name": "Challenge #30: Smart Vehicle Fuel Analyzer",
+    "module": "Class 10: Training AI",
+    "url": "https://lms.zebrarobotics.com/courses/2757/assignments/56671"
+  },
+  {
+    "name": "Challenge #14: Maximum Earnings from Daily Freelance Jobs",
+    "module": "Class 5: Dynamic Programming",
+    "url": "https://lms.zebrarobotics.com/courses/2757/assignments/56659"
+  },
+  {
+    "name": "Challenge #15: Minimum Travel Cost in a City Grid",
+    "module": "Class 5: Dynamic Programming",
+    "url": "https://lms.zebrarobotics.com/courses/2757/assignments/56660"
+  },
+  {
+    "name": "Challenge #16: Maximum Apples from Non-Adjacent Baskets",
+    "module": "Class 5: Dynamic Programming",
+    "url": "https://lms.zebrarobotics.com/courses/2757/assignments/59733"
+  },
+  {
+    "name": "Challenge #24: Detecting Color and Colored Objects",
+    "module": "Class 9: How AI Analyzes Images",
+    "url": "https://lms.zebrarobotics.com/courses/2757/assignments/56667"
+  },
+  {
+    "name": "Challenge #25: Finding Edges",
+    "module": "Class 9: How AI Analyzes Images",
+    "url": "https://lms.zebrarobotics.com/courses/2757/assignments/59735"
+  },
+  {
+    "name": "Challenge #26: Detecting and Counting Colored Objects (Lego Image)",
+    "module": "Class 9: How AI Analyzes Images",
+    "url": "https://lms.zebrarobotics.com/courses/2757/assignments/59736"
+  },
+  {
+    "name": "Challenge #27: Detecting Trained Objects",
+    "module": "Class 9: How AI Analyzes Images",
+    "url": "https://lms.zebrarobotics.com/courses/2757/assignments/56668"
+  }
+]

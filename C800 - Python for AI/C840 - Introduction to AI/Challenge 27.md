@@ -17,47 +17,7 @@ challenge_type: "regular"
 
 ## Problem
 
-• Set Up the Environment
-
-• Import OpenCV (cv2)
-
-• Load pre-trained Haar cascade classifiers for face, smile, and car detection
-
-• Use appropriate XML files such as frontal face, smile, and car classifiers
-
-• Detect Faces
-
-• Load an image (e.g., "people.jpg")
-
-• Convert the image to grayscale
-
-• Use detectMultiScale() to detect faces
-
-• Draw rectangles around detected faces
-
-• Display the result
-
-• Detect Smiles
-
-• Use the detected face regions (ROI) to improve smile detection accuracy
-
-• Apply the smile classifier only within each face region
-
-• Draw rectangles around detected smiles
-
-• Display the updated image
-
-• Detect Cars
-
-• Load a different image or video frame (e.g., "traffic.jpg")
-
-• Convert it to grayscale
-
-• Use the car classifier to detect vehicles
-
-• Draw bounding boxes around detected cars
-
-• Display the result
+<!-- No description was supplied in the JSON export. -->
 
 ## Solutions
 

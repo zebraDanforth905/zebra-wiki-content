@@ -17,49 +17,7 @@ challenge_type: "regular"
 
 ## Problem
 
-Match each example with the correct type of data.
-
-Types of Data:
-A. Numerical Data
-B. Categorical Data
-C. Text Data
-D. Image Data
-E. Audio Data
-F. Video Data
-
-No.
-Example
-Match (A–F)
-
-1
-A student’s test score is 92
-
-2
-A list of students’ favorite colors
-
-3
-A paragraph written in a book
-
-4
-A photo taken on a smartphone
-
-5
-A voice recording of a teacher
-
-6
-A YouTube video showing a science experiment
-
-7
-The number of students in a classroom
-
-8
-Types of pets students own (dog, cat, fish)
-
-9
-Chat messages between friends
-
-10
-Security camera footage showing people entering a building
+<!-- No description was supplied in the JSON export. -->
 
 ## Solutions
 

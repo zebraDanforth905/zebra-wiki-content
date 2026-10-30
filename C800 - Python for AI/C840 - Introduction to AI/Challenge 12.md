@@ -17,24 +17,7 @@ challenge_type: "regular"
 
 ## Problem
 
-Scenario:
-A computer folder can contain files and other subfolders. Each file has a size in MB. You need to calculate the total size of all files in a folder, including all files in subfolders.
-
-Write a Python recursive function that takes a folder structure (dictionary with files and subfolders) and returns the total size.
-
-Example Input:
-
-folder = {
-    "files": [2, 3],
-    "subfolders": [
-        {
-            "files": [1, 4],
-            "subfolders": []
-        }
-    ]
-}
-
-Expected Output: 10
+<!-- No description was supplied in the JSON export. -->
 
 ## Solutions
 

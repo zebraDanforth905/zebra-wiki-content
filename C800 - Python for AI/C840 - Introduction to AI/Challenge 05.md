@@ -17,34 +17,7 @@ challenge_type: "regular"
 
 ## Problem
 
-Match each example with the correct type of data structure.
-
-Types of Data Structure:
-A. Structured Data – Organized in rows, columns, or tables; easy for computers to process.
-B. Semi-Structured Data – Partially organized; has some tags or markers to help interpret it.
-C. Unstructured Data – No predefined format; hard for computers to process directly.
-
-No.
-Example
-Match (A–C)
-
-1
-A customer database with names, ages, and phone numbers
-
-2
-A JSON file containing product details
-
-3
-Photos uploaded on social media
-
-4
-Emails with subject lines, body text, and attachments
-
-5
-An Excel sheet with student test scores
-
-6
-A collection of YouTube videos
+<!-- No description was supplied in the JSON export. -->
 
 ## Solutions
 

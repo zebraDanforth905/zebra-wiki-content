@@ -17,31 +17,7 @@ challenge_type: "regular"
 
 ## Problem
 
-Part 1:
-
-Using one sentence in each cell, fill out the following table about the history of AI:
-
-Timeline: Evolution of Artificial Intelligence
-
-Time Period
-What Happened
-Why It Matters
-
-Before 1950
-
-1950s
-
-1956
-
-1970s–1980s
-
-2000s
-
-2020s
-
-Part 2:
-
-Based on what you have learned about Artificial Intelligence, imagine the world 10 years from now. Describe how AI might be used in everyday life, what tasks it could perform, and how it may impact people, jobs, and society. Use clear examples to support your ideas.
+<!-- No description was supplied in the JSON export. -->
 
 ## Solutions
 

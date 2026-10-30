@@ -17,42 +17,7 @@ challenge_type: "regular"
 
 ## Problem
 
-A smart greenhouse monitors temperature (°C), humidity (%), and soil moisture (%) every hour. The system should:
-
-• Turn on the heater if temperature drops below 18°C.
-
-• Turn on the irrigation system if soil moisture drops below 30%.
-
-•
-Alert the farmer if humidity goes above 80%.
-
-You have hourly data for 24 hours for a single day.
-
-Note: To help students work with realistic values, you can provide a reference array or defined value ranges for each variable. For example:
-
-• Temperature: 15–25°C
-
-• Humidity: 40–90%
-
-• Soil moisture: 20–60%
-
-Tasks:
-
-•
-Plain English Algorithm
-Describe, in words, how the system decides what action to take each hour.
-
-•
-Pseudocode
-Write pseudocode for the decision-making process.
-
-•
-Python Program
-Write a Python program that:
-
-• Reads arrays (or lists) of temperature, humidity, and soil moisture for 24 hours.
-
-• Prints the action(s) for each hour based on the rules above.
+<!-- No description was supplied in the JSON export. -->
 
 ## Solutions
 

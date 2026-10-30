@@ -17,46 +17,7 @@ challenge_type: "regular"
 
 ## Problem
 
-Match each AI component with the correct description below by writing the correct letter (A–E) in the blank.
-
-No.
-Keyword
-Match (Write A–E)
-
-1
-Data
-
-2
-Patterns
-
-3
-Algorithms
-
-4
-Learning
-
-5
-Decisions
-
-Descriptions:
-
-Letter
-Description
-
-A
-Choosing an action based on results
-
-B
-Improving performance using experience
-
-C
-Step-by-step instructions followed by a system
-
-D
-Repeated or similar information found in input
-
-E
-Raw information such as images, text, or numbers
+<!-- No description was supplied in the JSON export. -->
 
 ## Solutions
 

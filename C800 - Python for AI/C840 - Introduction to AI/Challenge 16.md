@@ -17,19 +17,7 @@ challenge_type: "regular"
 
 ## Problem
 
-You are working in a factory where apples are placed in baskets on a conveyor belt. Each basket contains a certain number of apples.
-
-For quality assurance purposes, you cannot inspect (pick) apples from two adjacent baskets, because adjacent samples may come from the same production batch and could bias the results.
-
-Using Dynamic Programming (DP), devise a solution to determine the maximum number of apples you can collect while following this rule.
-
-Example:
-
-baskets = [5, 2, 8, 4, 5, 12, 10]
-
-Expected Output:
-
-25
+<!-- No description was supplied in the JSON export. -->
 
 ## Solutions
 

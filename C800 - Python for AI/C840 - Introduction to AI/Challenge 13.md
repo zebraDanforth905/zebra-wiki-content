@@ -17,18 +17,7 @@ challenge_type: "regular"
 
 ## Problem
 
-Scenario:
-A restaurant wants to know how many possible menu combos can be made from n items if each item can appear at most once in a combo.
-
-Write a Python recursive function that takes a list of items and returns the number of possible combos (all non-empty subsets).
-
-Example Input:
-
-menu_items = ["Burger", "Fries", "Soda"]
-
-Expected Output: 7
-
-• Combos: Burger, Fries, Soda, Burger+Fries, Burger+Soda, Fries+Soda, Burger+Fries+Soda
+<!-- No description was supplied in the JSON export. -->
 
 ## Solutions
 

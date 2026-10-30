@@ -17,17 +17,7 @@ challenge_type: "regular"
 
 ## Problem
 
-Perform Color Detection
-
-• Import OpenCV (cv2) and NumPy
-
-• Load this image with distinctly colored objects with separation: color_objects.png
-
-• Convert the loaded from BGR to HSV
-
-• Define an HSV range for a chosen color (e.g., red, blue, or green)
-
-• Create a mask using cv2.inRange() and display only the detected color
+<!-- No description was supplied in the JSON export. -->
 
 ## Solutions
 
@@ -44,5 +34,3 @@ You can include multiple approaches in this section if needed.
 ## Common Mistakes (optional)
 
 ## Additional Resources (optional)
-
-- https://dp4rp4tcpuoo1.cloudfront.net/C800/Introduction%20to%20AI/Class%207/8.11%20color_objects.png

@@ -17,34 +17,7 @@ challenge_type: "regular"
 
 ## Problem
 
-• Import the NumPy library as np.
-
-• Generate a NumPy array called revenue that contains 50 random revenue values (in dollars) for 50 days of an ice cream booth. You can use:
-
-revenue = np.random.randint(100, 501, size=50)
-
-• Using NumPy, perform the following tasks / calculations:
-
-• Example: Find the total revenue for 50 days
-
- # Find total revenue
-total_revenue = np.sum(revenue)
-print(total_revenue)
-
-•
-
-• Find the average daily revenue
-
-•
-Find the highest revenue day and print a message like:
-"The highest revenue was $X"
-
-•
-Find the lowest revenue day and print a message like:
-"The lowest revenue was $Y"
-
-•
-Find all days where revenue was above $400 and print them
+<!-- No description was supplied in the JSON export. -->
 
 ## Solutions
 

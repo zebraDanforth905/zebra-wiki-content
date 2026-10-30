@@ -6,9 +6,9 @@ Expected JSON format: a list of objects with "name", "description", and optional
 "links". Other fields (such as "module") are intentionally ignored.
 
 Usage:
-  python generate_challenge_markdowns.py \
-    --json "Python_Fundamentals_1.1_Course_Code_2576.json" \
-    --template "challenge.md"
+  python3 creation/generate_challenge_markdowns.py \
+    --json creation/"Introduction_to_AI_Course_Challenges.json" \
+    --template creation/"challenge.md"
 
 By default, files are written directly to the current directory (no folders are created).
 
