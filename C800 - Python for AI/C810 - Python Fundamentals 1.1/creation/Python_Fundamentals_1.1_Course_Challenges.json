@@ -1,0 +1,297 @@
+[
+  {
+    "name": "Challenge #01: Writing a Program - Files Setup ",
+    "module": "Class 1: Introduction, IDLE, and Turtle",
+    "url": "https://lms.zebrarobotics.com/courses/2576/assignments/52660"
+  },
+  {
+    "name": "Challenge #02: Writing a Program - Shell v. File",
+    "module": "Class 1: Introduction, IDLE, and Turtle",
+    "url": "https://lms.zebrarobotics.com/courses/2576/assignments/52661"
+  },
+  {
+    "name": "Supplemental Challenge #01: Writing a Program - Bio Program",
+    "module": "Class 1: Introduction, IDLE, and Turtle",
+    "url": "https://lms.zebrarobotics.com/courses/2576/assignments/52708"
+  },
+  {
+    "name": "Supplemental Challenge #02: Writing a Program - ASCII Art Program",
+    "module": "Class 1: Introduction, IDLE, and Turtle",
+    "url": "https://lms.zebrarobotics.com/courses/2576/assignments/52709"
+  },
+  {
+    "name": "Challenge #03: Variables - Data-Types",
+    "module": "Class 2: Variable and Data Types",
+    "url": "https://lms.zebrarobotics.com/courses/2576/assignments/52662"
+  },
+  {
+    "name": "Challenge #04: Variables - Variable Names",
+    "module": "Class 2: Variable and Data Types",
+    "url": "https://lms.zebrarobotics.com/courses/2576/assignments/52663"
+  },
+  {
+    "name": "Challenge #05: Variables - Find the Error",
+    "module": "Class 2: Variable and Data Types",
+    "url": "https://lms.zebrarobotics.com/courses/2576/assignments/52664"
+  },
+  {
+    "name": "Challenge #06: Turtle - Turtle Intro",
+    "module": "Class 2: Variable and Data Types",
+    "url": "https://lms.zebrarobotics.com/courses/2576/assignments/52665"
+  },
+  {
+    "name": "Challenge #07: Turtle - Rectangle",
+    "module": "Class 2: Variable and Data Types",
+    "url": "https://lms.zebrarobotics.com/courses/2576/assignments/52666"
+  },
+  {
+    "name": "Challenge #08: Turtle - Triangle",
+    "module": "Class 2: Variable and Data Types",
+    "url": "https://lms.zebrarobotics.com/courses/2576/assignments/52667"
+  },
+  {
+    "name": "Challenge #09: Output - Social Media",
+    "module": "Class 3: Built-in Functions and Input/Output",
+    "url": "https://lms.zebrarobotics.com/courses/2576/assignments/52668"
+  },
+  {
+    "name": "Challenge #10: Input - Force Planet",
+    "module": "Class 3: Built-in Functions and Input/Output",
+    "url": "https://lms.zebrarobotics.com/courses/2576/assignments/52670"
+  },
+  {
+    "name": "Challenge #11: Input - Bio",
+    "module": "Class 3: Built-in Functions and Input/Output",
+    "url": "https://lms.zebrarobotics.com/courses/2576/assignments/52671"
+  },
+  {
+    "name": "Supplemental Challenge #03: Input/Output - Fun Greeting Program",
+    "module": "Class 3: Built-in Functions and Input/Output",
+    "url": "https://lms.zebrarobotics.com/courses/2576/assignments/52710"
+  },
+  {
+    "name": "Challenge #12: Turtle - Circle",
+    "module": "Class 4: Numeric Operators and Type Casting",
+    "url": "https://lms.zebrarobotics.com/courses/2576/assignments/52672"
+  },
+  {
+    "name": "Challenge #13: Casting - Addition",
+    "module": "Class 4: Numeric Operators and Type Casting",
+    "url": "https://lms.zebrarobotics.com/courses/2576/assignments/52673"
+  },
+  {
+    "name": "Challenge #14: Casting - Birth Year",
+    "module": "Class 4: Numeric Operators and Type Casting",
+    "url": "https://lms.zebrarobotics.com/courses/2576/assignments/52674"
+  },
+  {
+    "name": "Challenge #15: Casting - Tax Calculator",
+    "module": "Class 4: Numeric Operators and Type Casting",
+    "url": "https://lms.zebrarobotics.com/courses/2576/assignments/52675"
+  },
+  {
+    "name": "Challenge #16: Casting - Pizza Slices",
+    "module": "Class 4: Numeric Operators and Type Casting",
+    "url": "https://lms.zebrarobotics.com/courses/2576/assignments/52676"
+  },
+  {
+    "name": "DISCTD. Challenge #12: Turtle - Input Square",
+    "module": "Class 4: Numeric Operators and Type Casting",
+    "url": "https://lms.zebrarobotics.com/courses/2576/assignments/52707"
+  },
+  {
+    "name": "Supplemental Challenge #04: Type Casting and Numerical Operators - GPA Calculator",
+    "module": "Class 4: Numeric Operators and Type Casting",
+    "url": "https://lms.zebrarobotics.com/courses/2576/assignments/52711"
+  },
+  {
+    "name": "Challenge #17: Strings - String Manipulation",
+    "module": "Class 5: String Manipulation",
+    "url": "https://lms.zebrarobotics.com/courses/2576/assignments/52677"
+  },
+  {
+    "name": "Challenge #18: Strings - Username and Password",
+    "module": "Class 5: String Manipulation",
+    "url": "https://lms.zebrarobotics.com/courses/2576/assignments/52678"
+  },
+  {
+    "name": "Challenge #19: Strings - Urgent Message",
+    "module": "Class 5: String Manipulation",
+    "url": "https://lms.zebrarobotics.com/courses/2576/assignments/52679"
+  },
+  {
+    "name": "Challenge #20: Strings - Magical Story Validator",
+    "module": "Class 5: String Manipulation",
+    "url": "https://lms.zebrarobotics.com/courses/2576/assignments/52680"
+  },
+  {
+    "name": "Supplemental Challenge #05: String Manipulation - Username Creator",
+    "module": "Class 5: String Manipulation",
+    "url": "https://lms.zebrarobotics.com/courses/2576/assignments/52712"
+  },
+  {
+    "name": "Challenge #21: Flow Charts",
+    "module": "Class 6: Branching Logic (if-statements) and Boolean Operators",
+    "url": "https://lms.zebrarobotics.com/courses/2576/assignments/52681"
+  },
+  {
+    "name": "Challenge #22: Branching Logic -  E-Input Checked",
+    "module": "Class 6: Branching Logic (if-statements) and Boolean Operators",
+    "url": "https://lms.zebrarobotics.com/courses/2576/assignments/52682"
+  },
+  {
+    "name": "Challenge #23: Branching Logic - The Behemoth",
+    "module": "Class 6: Branching Logic (if-statements) and Boolean Operators",
+    "url": "https://lms.zebrarobotics.com/courses/2576/assignments/52683"
+  },
+  {
+    "name": "Challenge #24: Branching Logic  - Amusement Park",
+    "module": "Class 6: Branching Logic (if-statements) and Boolean Operators",
+    "url": "https://lms.zebrarobotics.com/courses/2576/assignments/52684"
+  },
+  {
+    "name": "Challenge #25: Branching Logic - Guessing Game",
+    "module": "Class 6: Branching Logic (if-statements) and Boolean Operators",
+    "url": "https://lms.zebrarobotics.com/courses/2576/assignments/52685"
+  },
+  {
+    "name": "Challenge #26: Random Money Action",
+    "module": "Class 6: Branching Logic (if-statements) and Boolean Operators",
+    "url": "https://lms.zebrarobotics.com/courses/2576/assignments/52686"
+  },
+  {
+    "name": "Supplemental Challenge #06: Branching Logic - Horoscope Program",
+    "module": "Class 6: Branching Logic (if-statements) and Boolean Operators",
+    "url": "https://lms.zebrarobotics.com/courses/2576/assignments/52713"
+  },
+  {
+    "name": "Challenge #27: Lists - Travel Wishlist",
+    "module": "Class 7: Python Basic Data Structures and Lists",
+    "url": "https://lms.zebrarobotics.com/courses/2576/assignments/52687"
+  },
+  {
+    "name": "Challenge #28: Lists - Grocery list",
+    "module": "Class 7: Python Basic Data Structures and Lists",
+    "url": "https://lms.zebrarobotics.com/courses/2576/assignments/52688"
+  },
+  {
+    "name": "Supplemental Challenge #07: Lists - Riddler",
+    "module": "Class 7: Python Basic Data Structures and Lists",
+    "url": "https://lms.zebrarobotics.com/courses/2576/assignments/52714"
+  },
+  {
+    "name": "Challenge #29: Loops - Bottles of Milk",
+    "module": "Class 8: Repeated Logic (While Loops)",
+    "url": "https://lms.zebrarobotics.com/courses/2576/assignments/52689"
+  },
+  {
+    "name": "Challenge #30: Loops - Remove Vowels",
+    "module": "Class 8: Repeated Logic (While Loops)",
+    "url": "https://lms.zebrarobotics.com/courses/2576/assignments/52690"
+  },
+  {
+    "name": "Challenge #31: Number Guessing with Warnings",
+    "module": "Class 8: Repeated Logic (While Loops)",
+    "url": "https://lms.zebrarobotics.com/courses/2576/assignments/52691"
+  },
+  {
+    "name": "Supplemental Challenge #08: Repeated Logic (While Loops) - Pyramids",
+    "module": "Class 8: Repeated Logic (While Loops)",
+    "url": "https://lms.zebrarobotics.com/courses/2576/assignments/52715"
+  },
+  {
+    "name": "Challenge #32: For Loops - Sentence Splitter",
+    "module": "Class 9: For loops",
+    "url": "https://lms.zebrarobotics.com/courses/2576/assignments/52692"
+  },
+  {
+    "name": "Challenge #33: For Loops - Count Down",
+    "module": "Class 9: For loops",
+    "url": "https://lms.zebrarobotics.com/courses/2576/assignments/52693"
+  },
+  {
+    "name": "Challenge #34: For Loops - Re-write",
+    "module": "Class 9: For loops",
+    "url": "https://lms.zebrarobotics.com/courses/2576/assignments/52694"
+  },
+  {
+    "name": "Challenge #35: For Loops - Multiplication Table",
+    "module": "Class 9: For loops",
+    "url": "https://lms.zebrarobotics.com/courses/2576/assignments/52695"
+  },
+  {
+    "name": "Challenge #36: For Loops - Stick Man ",
+    "module": "Class 9: For loops",
+    "url": "https://lms.zebrarobotics.com/courses/2576/assignments/52696"
+  },
+  {
+    "name": "Challenge #37: For Loops - Encryption ",
+    "module": "Class 9: For loops",
+    "url": "https://lms.zebrarobotics.com/courses/2576/assignments/52697"
+  },
+  {
+    "name": "Challenge #38: For Loops - Encryption II",
+    "module": "Class 9: For loops",
+    "url": "https://lms.zebrarobotics.com/courses/2576/assignments/52698"
+  },
+  {
+    "name": "Supplemental Challenge #09: For Loops - Vowel Counter",
+    "module": "Class 9: For loops",
+    "url": "https://lms.zebrarobotics.com/courses/2576/assignments/52716"
+  },
+  {
+    "name": "Supplemental Challenge #10: For Loops - Index Of Improved",
+    "module": "Class 9: For loops",
+    "url": "https://lms.zebrarobotics.com/courses/2576/assignments/52717"
+  },
+  {
+    "name": "Challenge #39: Dictionaries - Animal Names",
+    "module": "Class 10: Tuples, Sets, and Dictionaries",
+    "url": "https://lms.zebrarobotics.com/courses/2576/assignments/52699"
+  },
+  {
+    "name": "Challenge #40: Organize a Classroom Database with Tuples, Sets, and Lists",
+    "module": "Class 10: Tuples, Sets, and Dictionaries",
+    "url": "https://lms.zebrarobotics.com/courses/2576/assignments/52700"
+  },
+  {
+    "name": "Challenge #41: Dictionaries - Animal Menu",
+    "module": "Class 10: Tuples, Sets, and Dictionaries",
+    "url": "https://lms.zebrarobotics.com/courses/2576/assignments/52701"
+  },
+  {
+    "name": "Supplemental Challenge #11: Dictionary - Letter Counter",
+    "module": "Class 10: Tuples, Sets, and Dictionaries",
+    "url": "https://lms.zebrarobotics.com/courses/2576/assignments/52718"
+  },
+  {
+    "name": "Challenge #42: Functions - Max Number",
+    "module": "Class 11: User-defined Functions",
+    "url": "https://lms.zebrarobotics.com/courses/2576/assignments/52702"
+  },
+  {
+    "name": "Challenge #43: Functions - Fizz Buzz ",
+    "module": "Class 11: User-defined Functions",
+    "url": "https://lms.zebrarobotics.com/courses/2576/assignments/52703"
+  },
+  {
+    "name": "Challenge #44: Functions - Show Stars",
+    "module": "Class 11: User-defined Functions",
+    "url": "https://lms.zebrarobotics.com/courses/2576/assignments/52704"
+  },
+  {
+    "name": "Challenge #45: Functions - Greeter",
+    "module": "Class 11: User-defined Functions",
+    "url": "https://lms.zebrarobotics.com/courses/2576/assignments/52705"
+  },
+  {
+    "name": "Challenge #46: Functions - Driver Speed Evaluation Simulation",
+    "module": "Class 11: User-defined Functions",
+    "url": "https://lms.zebrarobotics.com/courses/2576/assignments/52706"
+  },
+  {
+    "name": "Challenge #1000: Finished Level",
+    "module": "Level Completion",
+    "url": "https://lms.zebrarobotics.com/courses/2576/assignments/52669"
+  }
+]

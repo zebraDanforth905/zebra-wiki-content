@@ -1,4 +1,21 @@
 #!/usr/bin/env python3
+"""
+Copy Python solution files into the "## Solutions" section of the challenge
+Markdown files.
+
+Folder layout:
+  Python Fundamentals 1.1/          <- challenge1.md, challenge1-supplemental.md, ...
+    creation/
+    code-solutions/
+      fill_challenge_solutions.py   <- this script
+      1.py  (or challenge1.py)      -> challenge1.md
+      supplemental1.py              -> challenge1-supplemental.md
+      challenge12-discontinued.py   -> challenge12-discontinued.md
+
+Usage (preview first, then apply):
+  python code-solutions/fill_challenge_solutions.py
+  python code-solutions/fill_challenge_solutions.py --apply --backup
+"""
 
 from pathlib import Path
 import re
@@ -9,14 +26,6 @@ import argparse
 SCRIPT_DIR = Path(__file__).resolve().parent
 MARKDOWN_DIR = SCRIPT_DIR.parent
 SOLUTIONS_DIR = SCRIPT_DIR
-
-SOURCE_PATTERN = re.compile(
-    r"^challenge\s*#?\s*0*(\d+)"
-    r"(?:\s*[-_ ]*\s*(supplemental|discontinued))?"
-    r".*\.py$",
-    re.IGNORECASE,
-)
-
 
 def get_metadata(text):
     """Read simple YAML front matter from a Markdown file."""
@@ -62,6 +71,10 @@ def get_challenge_number(path, metadata):
 
 
 def get_challenge_type(path, metadata):
+    value = metadata.get("challenge_type", "").lower()
+    if value in ("regular", "supplemental", "discontinued"):
+        return value
+
     name = path.stem.lower()
 
     if "supplemental" in name:
@@ -82,9 +95,10 @@ def get_source_info(path):
     if match:
         return int(match.group(1)), "supplemental"
 
-    # Regular and discontinued challenge files: challenge1.py, etc.
+    # Regular and discontinued files: 1.py or challenge1.py,
+    # challenge12-discontinued.py, etc.
     match = re.match(
-        r"^challenge\s*#?\s*0*(\d+)"
+        r"^(?:challenge\s*#?\s*)?0*(\d+)"
         r"(?:\s*[-_ ]*\s*(discontinued))?$",
         name,
         re.IGNORECASE,
@@ -120,11 +134,15 @@ def replace_solutions(markdown, code, language="python"):
     else:
         suffix = ""
 
+    # Use a longer fence if the code itself contains ``` (e.g. in a string).
+    longest = max((len(m) for m in re.findall(r"`{3,}", code)), default=0)
+    fence = "`" * max(3, longest + 1)
+
     section = (
         "## Solutions\n\n"
-        f"```{language}\n"
+        f"{fence}{language}\n"
         f"{code.rstrip()}\n"
-        "```\n\n"
+        f"{fence}\n\n"
     )
 
     return (
@@ -154,8 +172,9 @@ def main():
     args = parser.parse_args()
 
     markdown_files = sorted(
-        path for path in MARKDOWN_DIR.glob("Challenge *.md")
-        if path.is_file()
+        path for path in MARKDOWN_DIR.glob("*.md")
+        if re.match(r"^challenge\d", path.name, re.IGNORECASE)
+        and path.is_file()
     )
 
     source_files = sorted(
