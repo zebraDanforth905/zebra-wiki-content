@@ -6,22 +6,18 @@ course: "Python Fundamentals"
 course_code: "c820"
 version: "1.1"
 challenge: 56
-language: "python"
+challenge_type: "regular"   # regular | supplemental | discontinued | optional | unnumbered
+language: python
 tags: [python]
 author: "Your Name"
-status: "draft"
-challenge_type: "regular"
+status: draft        # todo | draft | reviewed | final
 ---
 
 # Challenge #56: Reading Files - Create a text file with questions and answers
 
-## Problem
+## Challenge Brief
 
-Create a text file with 3 (or more) questions and answers like so:
-
-Then create a program that reads in the questions and answers and quizzes a user and gives them a grade at the end.
-
-Sample input:
+https://lms.zebrarobotics.com/courses/2597/assignments/53239
 
 ## Solutions
 

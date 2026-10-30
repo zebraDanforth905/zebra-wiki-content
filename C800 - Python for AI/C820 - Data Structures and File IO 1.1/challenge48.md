@@ -6,18 +6,18 @@ course: "Python Fundamentals"
 course_code: "c820"
 version: "1.1"
 challenge: 48
-language: "python"
+challenge_type: "regular"   # regular | supplemental | discontinued | optional | unnumbered
+language: python
 tags: [python]
 author: "Your Name"
-status: "draft"
-challenge_type: "regular"
+status: draft        # todo | draft | reviewed | final
 ---
 
 # Challenge #48: Scope - Difference between global variable and local variable
 
-## Problem
+## Challenge Brief
 
-Explain the difference between a Global Variable and a Local Variable to your coach
+https://lms.zebrarobotics.com/courses/2597/assignments/53230
 
 ## Solutions
 

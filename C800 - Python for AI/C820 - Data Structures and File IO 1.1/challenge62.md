@@ -6,42 +6,18 @@ course: "Python Fundamentals"
 course_code: "c820"
 version: "1.1"
 challenge: 62
-language: "python"
+challenge_type: "regular"   # regular | supplemental | discontinued | optional | unnumbered
+language: python
 tags: [python]
 author: "Your Name"
-status: "draft"
-challenge_type: "regular"
+status: draft        # todo | draft | reviewed | final
 ---
 
 # Challenge #62: Parsing Files - Creating a suggestions file for a banking app
 
-## Problem
+## Challenge Brief
 
-Your challenge is to create a program that reads a suggestions file for a banking app and figures out the features in the app that need to be created or fixed.
-
-Look for these keywords in the suggestion file and keep track of how many times each word occurs:
-
-• Password
-
-• Security
-
-• E-transfer
-
-• accounts
-
-• cards
-
-• Deposit
-
-• branch
-
-Once you have a list of occurrences, display them to the screen in a useful and easy to read way.
-
-Example file:
-
-Note: You are not allowed to use .count()
-
-Fun Fact: Based on an Amazon Interview Question
+https://lms.zebrarobotics.com/courses/2597/assignments/53245
 
 ## Solutions
 

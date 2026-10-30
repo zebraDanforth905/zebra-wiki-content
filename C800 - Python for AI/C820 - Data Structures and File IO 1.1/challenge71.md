@@ -6,28 +6,18 @@ course: "Python Fundamentals"
 course_code: "c820"
 version: "1.1"
 challenge: 71
-language: "python"
+challenge_type: "regular"   # regular | supplemental | discontinued | optional | unnumbered
+language: python
 tags: [python]
 author: "Your Name"
-status: "draft"
-challenge_type: "regular"
+status: draft        # todo | draft | reviewed | final
 ---
 
 # Challenge #71: Overriding - Create a banking program
 
-## Problem
+## Challenge Brief
 
-Your challenge is to create a banking program
-
-Create a class called BankAccount
-
-• There should be methods for depositing funds and withdrawing funds
-
-• There should be properties for the account holders name, balance, date of birth, social insurance number, phone number, and pin
-
-• Create some user-intractability, allow users to create accounts, look up their balance, make withdrawals and deposits, change their pin, change their phone number
-
-Also create a file system to allow you to maintain the bank account in between uses of the program.
+https://lms.zebrarobotics.com/courses/2597/assignments/53254
 
 ## Solutions
 

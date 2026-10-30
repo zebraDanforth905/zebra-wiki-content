@@ -6,36 +6,18 @@ course: "Python Fundamentals"
 course_code: "c820"
 version: "1.1"
 challenge: 53
-language: "python"
+challenge_type: "regular"   # regular | supplemental | discontinued | optional | unnumbered
+language: python
 tags: [python]
 author: "Your Name"
-status: "draft"
-challenge_type: "regular"
+status: draft        # todo | draft | reviewed | final
 ---
 
 # Challenge #53: Favorite Numbers Transformation
 
-## Problem
+## Challenge Brief
 
-You and your friends have each chosen your favorite numbers. You want to double the even numbers and keep the odd numbers the same.
-
-Instructions:
-
-• Use a list to store your numbers: [3, 6, 9, 12, 15].
-
-• Transform the list in two ways:
-
-•
-Approach A – Using a lambda expression inside a list comprehension
-
-• Use a lambda to apply the transformation for each element.
-
-•
-Approach B – Using just a list comprehension with a conditional expression
-
-• Apply the same transformation without a lambda.
-
-• Print the original list and the transformed list.
+https://lms.zebrarobotics.com/courses/2597/assignments/53236
 
 ## Solutions
 

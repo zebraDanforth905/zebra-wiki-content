@@ -6,22 +6,18 @@ course: "Python Fundamentals"
 course_code: "c820"
 version: "1.1"
 challenge: 57
-language: "python"
+challenge_type: "regular"   # regular | supplemental | discontinued | optional | unnumbered
+language: python
 tags: [python]
 author: "Your Name"
-status: "draft"
-challenge_type: "regular"
+status: draft        # todo | draft | reviewed | final
 ---
 
 # Challenge #57: Reading Files - Create a program that reads a corrupted file
 
-## Problem
+## Challenge Brief
 
-Your job is to create a program that reads an corrupted file and spits out only odd letters to decrypt the file.
-
-Here is an example of an encrypted file:
-
-Here is the message hidden in the odd letters:
+https://lms.zebrarobotics.com/courses/2597/assignments/53240
 
 ## Solutions
 

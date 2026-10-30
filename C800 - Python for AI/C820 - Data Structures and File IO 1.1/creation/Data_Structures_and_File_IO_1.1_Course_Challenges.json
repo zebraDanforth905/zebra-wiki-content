@@ -1,0 +1,162 @@
+[
+  {
+    "name": "Challenge #47: Functions - Difference between parameter and an argument",
+    "module": "Class 1: More About Functions",
+    "url": "https://lms.zebrarobotics.com/courses/2597/assignments/53229"
+  },
+  {
+    "name": "Challenge #48: Scope - Difference between global variable and local variable",
+    "module": "Class 1: More About Functions",
+    "url": "https://lms.zebrarobotics.com/courses/2597/assignments/53230"
+  },
+  {
+    "name": "Challenge #49: Functions -  Drawing a shape",
+    "module": "Class 1: More About Functions",
+    "url": "https://lms.zebrarobotics.com/courses/2597/assignments/53231"
+  },
+  {
+    "name": "Challenge #50: The Mystery Gift Box ",
+    "module": "Class 2: Data Structure Iteration and Comprehension",
+    "url": "https://lms.zebrarobotics.com/courses/2597/assignments/53233"
+  },
+  {
+    "name": "Challenge #51: MDS - The Pixel Painter ",
+    "module": "Class 2: Data Structure Iteration and Comprehension",
+    "url": "https://lms.zebrarobotics.com/courses/2597/assignments/53234"
+  },
+  {
+    "name": "Challenge #52: List Comprehension - The Clean-Up Bot",
+    "module": "Class 2: Data Structure Iteration and Comprehension",
+    "url": "https://lms.zebrarobotics.com/courses/2597/assignments/53235"
+  },
+  {
+    "name": "Challenge #53: Favorite Numbers Transformation",
+    "module": "Class 3: Handling Data Structures",
+    "url": "https://lms.zebrarobotics.com/courses/2597/assignments/53236"
+  },
+  {
+    "name": "Challenge #54: School Timetable Analyzer",
+    "module": "Class 3: Handling Data Structures",
+    "url": "https://lms.zebrarobotics.com/courses/2597/assignments/53237"
+  },
+  {
+    "name": "Challenge #55: Toronto Rainfall Analyzer",
+    "module": "Class 3: Handling Data Structures",
+    "url": "https://lms.zebrarobotics.com/courses/2597/assignments/53238"
+  },
+  {
+    "name": "Challenge #56: Reading Files - Create a text file with questions and answers",
+    "module": "Class 4: Reading and Writing a File",
+    "url": "https://lms.zebrarobotics.com/courses/2597/assignments/53239"
+  },
+  {
+    "name": "Challenge #57: Reading Files - Create a program that reads a corrupted file",
+    "module": "Class 4: Reading and Writing a File",
+    "url": "https://lms.zebrarobotics.com/courses/2597/assignments/53240"
+  },
+  {
+    "name": "Challenge #58: Reading/Writing Files -Reconstructing a Passage from Two Files",
+    "module": "Class 4: Reading and Writing a File",
+    "url": "https://lms.zebrarobotics.com/courses/2597/assignments/53241"
+  },
+  {
+    "name": "Challenge #59: Writing Files - Write a program to encrypt files",
+    "module": "Class 4: Reading and Writing a File",
+    "url": "https://lms.zebrarobotics.com/courses/2597/assignments/53242"
+  },
+  {
+    "name": "Challenge #60: Working with Files - Party Dish Manager",
+    "module": "Class 5: Parsing a file",
+    "url": "https://lms.zebrarobotics.com/courses/2597/assignments/53243"
+  },
+  {
+    "name": "Challenge #61: Parsing Files - Make a list of students",
+    "module": "Class 5: Parsing a file",
+    "url": "https://lms.zebrarobotics.com/courses/2597/assignments/53244"
+  },
+  {
+    "name": "Challenge #62: Parsing Files - Creating a suggestions file for a banking app",
+    "module": "Class 5: Parsing a file",
+    "url": "https://lms.zebrarobotics.com/courses/2597/assignments/53245"
+  },
+  {
+    "name": "Optional Challenge: Parsing Files -Figure out the encrypted message",
+    "module": "Class 5: Parsing a file",
+    "url": "https://lms.zebrarobotics.com/courses/2597/assignments/53259"
+  },
+  {
+    "name": "Challenge #500: Trip Expense Calculator & Bill Splitter",
+    "module": "Mid-Level Project",
+    "url": "https://lms.zebrarobotics.com/courses/2597/assignments/53232"
+  },
+  {
+    "name": "Challenge #63: OOP - Student Marks Portal",
+    "module": "Class 6: Object-Oriented Programming",
+    "url": "https://lms.zebrarobotics.com/courses/2597/assignments/53246"
+  },
+  {
+    "name": "Challenge #64: OOP - Maintaining data (Car)",
+    "module": "Class 6: Object-Oriented Programming",
+    "url": "https://lms.zebrarobotics.com/courses/2597/assignments/53247"
+  },
+  {
+    "name": "Challenge #65: Methods and Imports - CarClass.py and Inventory.py",
+    "module": "Class 7: Methods and Imports",
+    "url": "https://lms.zebrarobotics.com/courses/2597/assignments/53248"
+  },
+  {
+    "name": "Challenge #66: Methods and Imports - Car class and __str__",
+    "module": "Class 7: Methods and Imports",
+    "url": "https://lms.zebrarobotics.com/courses/2597/assignments/53249"
+  },
+  {
+    "name": "Challenge #67: Inheritance and Encapsulation- Motorcycle and Truck ",
+    "module": "Class 8: Inheritance and Encapsulation",
+    "url": "https://lms.zebrarobotics.com/courses/2597/assignments/53250"
+  },
+  {
+    "name": "Challenge #68:  Inheritance and Encapsulation - Making Car variables private",
+    "module": "Class 8: Inheritance and Encapsulation",
+    "url": "https://lms.zebrarobotics.com/courses/2597/assignments/53251"
+  },
+  {
+    "name": "Challenge #69: Overriding - Overriding __str__",
+    "module": "Class 9: Overriding",
+    "url": "https://lms.zebrarobotics.com/courses/2597/assignments/53252"
+  },
+  {
+    "name": "Challenge #70: Overriding -  Online shopping experience",
+    "module": "Class 9: Overriding",
+    "url": "https://lms.zebrarobotics.com/courses/2597/assignments/53253"
+  },
+  {
+    "name": "Challenge #71: Overriding - Create a banking program",
+    "module": "Class 9: Overriding",
+    "url": "https://lms.zebrarobotics.com/courses/2597/assignments/53254"
+  },
+  {
+    "name": "CROC 2018",
+    "module": "Supplemental Projects",
+    "url": "https://lms.zebrarobotics.com/courses/2597/assignments/53255"
+  },
+  {
+    "name": "CROC 2019 - Summer",
+    "module": "Supplemental Projects",
+    "url": "https://lms.zebrarobotics.com/courses/2597/assignments/53256"
+  },
+  {
+    "name": "CROC 2019 - Winter",
+    "module": "Supplemental Projects",
+    "url": "https://lms.zebrarobotics.com/courses/2597/assignments/53257"
+  },
+  {
+    "name": "CROC 2020",
+    "module": "Supplemental Projects",
+    "url": "https://lms.zebrarobotics.com/courses/2597/assignments/53258"
+  },
+  {
+    "name": "Challenge #1000: Build Your Own Banking Program",
+    "module": "Level Completion",
+    "url": "https://lms.zebrarobotics.com/courses/2597/assignments/53228"
+  }
+]

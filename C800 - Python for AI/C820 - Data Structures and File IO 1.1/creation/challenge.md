@@ -6,6 +6,7 @@ course: "Python Fundamentals"
 course_code: c820
 version: "1.1"
 challenge: 1
+challenge_type: regular   # regular | supplemental | discontinued | optional | unnumbered
 language: python
 tags: [python]
 author: "Your Name"
@@ -14,9 +15,9 @@ status: draft        # todo | draft | reviewed | final
 
 # Challenge N
 
-## Problem
+## Challenge Brief
 
-<!-- Paste the challenge prompt here. -->
+<!-- Link to challenge will be here -->
 
 ## Solutions
 

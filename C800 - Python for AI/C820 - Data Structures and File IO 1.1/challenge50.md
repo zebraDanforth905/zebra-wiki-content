@@ -6,35 +6,18 @@ course: "Python Fundamentals"
 course_code: "c820"
 version: "1.1"
 challenge: 50
-language: "python"
+challenge_type: "regular"   # regular | supplemental | discontinued | optional | unnumbered
+language: python
 tags: [python]
 author: "Your Name"
-status: "draft"
-challenge_type: "regular"
+status: draft        # todo | draft | reviewed | final
 ---
 
 # Challenge #50: The Mystery Gift Box
 
-## Problem
+## Challenge Brief
 
-You are given a list that mixes gift names and their prices:
-
-items = ["Toy Car", 15, "Doll", 20, "Lego Set", 35, "Book", 10]
-
-Task:
-Write code that loops through the list and prints:
-
-Gift: Toy Car - Price: $15
-Gift: Doll - Price: $20
-Gift: Lego Set - Price: $35
-Gift: Book - Price: $10
-
-Hint:
-Every even index is a name, and the next index is its price.
-Use iteration and range() smartly!
-
-Bonus:
-Add a feature that calculates and displays the total cost at the end.
+https://lms.zebrarobotics.com/courses/2597/assignments/53233
 
 ## Solutions
 

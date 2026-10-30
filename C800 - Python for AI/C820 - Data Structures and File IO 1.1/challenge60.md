@@ -6,76 +6,18 @@ course: "Python Fundamentals"
 course_code: "c820"
 version: "1.1"
 challenge: 60
-language: "python"
+challenge_type: "regular"   # regular | supplemental | discontinued | optional | unnumbered
+language: python
 tags: [python]
 author: "Your Name"
-status: "draft"
-challenge_type: "regular"
+status: draft        # todo | draft | reviewed | final
 ---
 
 # Challenge #60: Working with Files - Party Dish Manager
 
-## Problem
+## Challenge Brief
 
-You’re organizing a potluck party!
-Each guest is bringing one dish, and you want to store this information in a dictionary.
-
-Your Tasks:
-
-1. Read the data from the file and store it in a suitable dictionary.
-Each line of the text file contains one guest and one dish, separated by a colon :.
-Here’s your default file — party_data.txt:
-
-Alice:Salad
-John:Brownies
-Maria:Pasta
-David:Fruit Platter
-Sophie:Cookies
-Liam:Pizza
-Emma:Sandwiches
-Noah:Drinks
-Olivia:Guacamole
-Ethan:Garlic Bread
-Ava:Veggie Wraps
-James:Cheese Platter
-Isabella:Chocolate Cake
-Benjamin:Nachos
-Mia:Mini Cupcakes
-
-Hint: Use .split(':') to separate the guest name and the dish when reading the file.
-
-2. Store the data in a dictionary where
-
-•
-Keys → Guest names
-
-•
-Values → Dishes they brought
-
-Example structure:
-
-{'Alice': 'Salad', 'John': 'Brownies', ...}
-
-3. Create a menu-driven program that lets the user:
-
-• View all guests and dishes
-
-• Add a new guest and dish
-
-• Update a guest’s dish
-
-• Remove a guest
-
-• Save and Quit
-
-4. Save changes back to the file
-When the user chooses “Save and Quit”:
-
-• Write all data back to party_data.txt in the same format.
-
-• Display a confirmation message like:
-
-Data saved successfully!
+https://lms.zebrarobotics.com/courses/2597/assignments/53243
 
 ## Solutions
 

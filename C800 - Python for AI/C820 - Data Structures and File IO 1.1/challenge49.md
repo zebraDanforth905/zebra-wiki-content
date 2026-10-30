@@ -6,47 +6,18 @@ course: "Python Fundamentals"
 course_code: "c820"
 version: "1.1"
 challenge: 49
-language: "python"
+challenge_type: "regular"   # regular | supplemental | discontinued | optional | unnumbered
+language: python
 tags: [python]
 author: "Your Name"
-status: "draft"
-challenge_type: "regular"
+status: draft        # todo | draft | reviewed | final
 ---
 
 # Challenge #49: Functions -  Drawing a shape
 
-## Problem
+## Challenge Brief
 
-Your program must:
-
-•
-Ask the user what shape they want to draw:
-
-• circle
-
-• square
-
-• triangle
-
-•
-Ask the user for:
-
-• the size of the shape
-
-• the color of the shape
-
-•
-Use at least four functions, including:
-
-• A main function that runs the overall program
-
-• Additional helper functions (e.g., one for each shape)
-
-• Inside your main function, use a match statement to call the correct shape-drawing function based on the user’s input.
-
-Sample input:
-
-Resulting output:
+https://lms.zebrarobotics.com/courses/2597/assignments/53231
 
 ## Solutions
 

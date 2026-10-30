@@ -6,119 +6,18 @@ course: "Python Fundamentals"
 course_code: "c820"
 version: "1.1"
 challenge: 63
-language: "python"
+challenge_type: "regular"   # regular | supplemental | discontinued | optional | unnumbered
+language: python
 tags: [python]
 author: "Your Name"
-status: "draft"
-challenge_type: "regular"
+status: draft        # todo | draft | reviewed | final
 ---
 
 # Challenge #63: OOP - Student Marks Portal
 
-## Problem
+## Challenge Brief
 
-You will build a Python program called markBook.py that manages student information using:
-
-• A Student class
-
-• A menu-driven console application
-
-• A proper main() entry point
-
-• A marks.txt file that preloads students into the system
-
-This system will serve as a small student-information management portal for school staff.
-
-marks.txt File
-
-Your program must read the initial list of students from a text file named:
-
-marks.txt
-
-The file will contain one student per line, using the format:
-
-first_name, last_name, mark, date_of_birth, student_number, grade, class_number, classes_attended
-John, Parker, 85, 2007-04-12, S1001, 10, 10A, 42
-Emily, Chen, 92, 2006-11-23, S1002, 11, 11B, 48
-Liam, Thompson, 76, 2008-02-05, S1003, 9, 9C, 38
-Sophia, Reyes, 88, 2007-09-17, S1004, 10, 10C, 45
-Noah, Patel, 67, 2008-06-29, S1005, 9, 9A, 33
-Olivia, Martins, 94, 2006-03-14, S1006, 11, 11A, 52
-
-Student Class Requirements
-
-Create a class named Student with the following attributes:
-
-• first_name
-
-• last_name
-
-• mark
-
-• date_of_birth
-
-• student_number
-
-• grade
-
-• class_number
-
-• classes_attended
-
-Also include:
-
-• A constructor (__init__)
-
-• A __str__ or __repr__ method (Ask the coach)
-
-Program Requirements
-
-Your program must:
-
-• Read and parse the marks.txt file
-
-• Store each student as a Student object in a list.
-
-• Display the menu:
-
-===== MarkBook Student Management =====
-1) View all students
-2) Add a student
-3) Update student marks and grade
-4) Update attendance count
-5) Update any student field
-6) Exit
-
-• Use a main() function and include:
-
-if __name__ == "__main__":
-    main()
-
-• Allow staff to:
-
-• View all students
-
-• Add a new student
-
-• Update marks + grade
-
-• Update attendance
-
-• Update any field
-
-• Exit the system
-
-Parsing the marks.txt File
-
-Students must:
-
-• Open the file
-
-• Read line by line
-
-• Split values into respective fields.
-
-• Create Student objects once the newline character is reached
+https://lms.zebrarobotics.com/courses/2597/assignments/53246
 
 ## Solutions
 
