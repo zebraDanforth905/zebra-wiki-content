@@ -1,0 +1,272 @@
+[
+  {
+    "name": "Challenge #01: Basic Blocks - Trail Of Fire",
+    "module": "Class 1: Basic Blocks and Events",
+    "url": "https://lms.zebrarobotics.com/courses/2111/assignments/41879"
+  },
+  {
+    "name": "Challenge #02: Basic Blocks - Chicken Spawner",
+    "module": "Class 1: Basic Blocks and Events",
+    "url": "https://lms.zebrarobotics.com/courses/2111/assignments/41880"
+  },
+  {
+    "name": "Challenge #03: Basic Blocks - Summon Agent",
+    "module": "Class 1: Basic Blocks and Events",
+    "url": "https://lms.zebrarobotics.com/courses/2111/assignments/41881"
+  },
+  {
+    "name": "Challenge #04: Basic Blocks - Double Agent Square",
+    "module": "Class 1: Basic Blocks and Events",
+    "url": "https://lms.zebrarobotics.com/courses/2111/assignments/41882"
+  },
+  {
+    "name": "Challenge #05: Basic Blocks - Agent Social Distancing",
+    "module": "Class 1: Basic Blocks and Events",
+    "url": "https://lms.zebrarobotics.com/courses/2111/assignments/41883"
+  },
+  {
+    "name": "Challenge #06: Traversing Coordinates - Danger in all Directions!",
+    "module": "Class 2: Moving the Agent and Coordinates",
+    "url": "https://lms.zebrarobotics.com/courses/2111/assignments/41884"
+  },
+  {
+    "name": "Challenge #07: Moving the Agent - Agent from Afar",
+    "module": "Class 2: Moving the Agent and Coordinates",
+    "url": "https://lms.zebrarobotics.com/courses/2111/assignments/41885"
+  },
+  {
+    "name": "Challenge #08: Coordinates - Spawn Tower",
+    "module": "Class 2: Moving the Agent and Coordinates",
+    "url": "https://lms.zebrarobotics.com/courses/2111/assignments/41886"
+  },
+  {
+    "name": "Challenge #09: Coordinates - Fun with Teleporting",
+    "module": "Class 2: Moving the Agent and Coordinates",
+    "url": "https://lms.zebrarobotics.com/courses/2111/assignments/41888"
+  },
+  {
+    "name": "Challenge #09.1: Coordinates - Afraid of Heights",
+    "module": "Class 2: Moving the Agent and Coordinates",
+    "url": "https://lms.zebrarobotics.com/courses/2111/assignments/41887"
+  },
+  {
+    "name": "Challenge #10: Coordinates - Constant Companion",
+    "module": "Class 2: Moving the Agent and Coordinates",
+    "url": "https://lms.zebrarobotics.com/courses/2111/assignments/41890"
+  },
+  {
+    "name": "Challenge #11: Coordinates - Block Placer",
+    "module": "Class 2: Moving the Agent and Coordinates",
+    "url": "https://lms.zebrarobotics.com/courses/2111/assignments/41891"
+  },
+  {
+    "name": "Challenge #12: Coordinates - Magic Farm",
+    "module": "Class 2: Moving the Agent and Coordinates",
+    "url": "https://lms.zebrarobotics.com/courses/2111/assignments/41893"
+  },
+  {
+    "name": "Challenge #12.1: Coordinates - Magic Farm with Water",
+    "module": "Class 2: Moving the Agent and Coordinates",
+    "url": "https://lms.zebrarobotics.com/courses/2111/assignments/41892"
+  },
+  {
+    "name": "Challenge #13: Coordinates - Super Mine Shaft",
+    "module": "Class 2: Moving the Agent and Coordinates",
+    "url": "https://lms.zebrarobotics.com/courses/2111/assignments/41894"
+  },
+  {
+    "name": "Challenge #14: Iteration and Operators - It's Rainin' Llamas",
+    "module": "Class 3: Iteration and Operators",
+    "url": "https://lms.zebrarobotics.com/courses/2111/assignments/41895"
+  },
+  {
+    "name": "Challenge #15: Iteration and Operators - The Great Wall",
+    "module": "Class 3: Iteration and Operators",
+    "url": "https://lms.zebrarobotics.com/courses/2111/assignments/41897"
+  },
+  {
+    "name": "Challenge #15.1: Advanced Agent - The Great Window",
+    "module": "Class 3: Iteration and Operators",
+    "url": "https://lms.zebrarobotics.com/courses/2111/assignments/41896"
+  },
+  {
+    "name": "Challenge #16: Advanced Agent - Iron Golem Generator",
+    "module": "Class 3: Iteration and Operators",
+    "url": "https://lms.zebrarobotics.com/courses/2111/assignments/41898"
+  },
+  {
+    "name": "Challenge #17: Iteration and Operators - Home Makeover: Minecraft Edition",
+    "module": "Class 3: Iteration and Operators",
+    "url": "https://lms.zebrarobotics.com/courses/2111/assignments/41899"
+  },
+  {
+    "name": "Challenge #18: Builder Blocks - Large Tower",
+    "module": "Class 4: Builder Blocks",
+    "url": "https://lms.zebrarobotics.com/courses/2111/assignments/41900"
+  },
+  {
+    "name": "Challenge #19.1: Builder Blocks - Agent vs Builder - Speed",
+    "module": "Class 4: Builder Blocks",
+    "url": "https://lms.zebrarobotics.com/courses/2111/assignments/41901"
+  },
+  {
+    "name": "Challenge #19.2: Builder Blocks - Fill vs Builder - Efficiency",
+    "module": "Class 4: Builder Blocks",
+    "url": "https://lms.zebrarobotics.com/courses/2111/assignments/41902"
+  },
+  {
+    "name": "Challenge #19.3: Builder Blocks - Triple Comparison - Intersection",
+    "module": "Class 4: Builder Blocks",
+    "url": "https://lms.zebrarobotics.com/courses/2111/assignments/41903"
+  },
+  {
+    "name": "Challenge #20: Builder Blocks - Aquarium",
+    "module": "Class 4: Builder Blocks",
+    "url": "https://lms.zebrarobotics.com/courses/2111/assignments/41904"
+  },
+  {
+    "name": "Challenge #21: Red, Blue, and Yellow... Minus the Red",
+    "module": "Class 5: Conditional Statements",
+    "url": "https://lms.zebrarobotics.com/courses/2111/assignments/41905"
+  },
+  {
+    "name": "Challenge #22: Conditional Statements - Stairway to Bedrock",
+    "module": "Class 5: Conditional Statements",
+    "url": "https://lms.zebrarobotics.com/courses/2111/assignments/41906"
+  },
+  {
+    "name": "Challenge #23: Variables - Infinite Cobblestone",
+    "module": "Class 6: Variables",
+    "url": "https://lms.zebrarobotics.com/courses/2111/assignments/41907"
+  },
+  {
+    "name": "Challenge #24: Variables - Smart Quiver ",
+    "module": "Class 6: Variables",
+    "url": "https://lms.zebrarobotics.com/courses/2111/assignments/41909"
+  },
+  {
+    "name": "Challenge #25: Variables - To Greater Depths",
+    "module": "Class 6: Variables",
+    "url": "https://lms.zebrarobotics.com/courses/2111/assignments/41910"
+  },
+  {
+    "name": "Challenge #26: Input - Birthday Candles",
+    "module": "Class 7: Input",
+    "url": "https://lms.zebrarobotics.com/courses/2111/assignments/41911"
+  },
+  {
+    "name": "Challenge #27: Math - Minecalculator",
+    "module": "Class 7: Input",
+    "url": "https://lms.zebrarobotics.com/courses/2111/assignments/41912"
+  },
+  {
+    "name": "Challenge #28: Input - The Great Sphere",
+    "module": "Class 7: Input",
+    "url": "https://lms.zebrarobotics.com/courses/2111/assignments/41915"
+  },
+  {
+    "name": "Challenge #28.1: Input - CN Tower",
+    "module": "Class 7: Input",
+    "url": "https://lms.zebrarobotics.com/courses/2111/assignments/41913"
+  },
+  {
+    "name": "Challenge #28.2: Input - Ask for Input",
+    "module": "Class 7: Input",
+    "url": "https://lms.zebrarobotics.com/courses/2111/assignments/41914"
+  },
+  {
+    "name": "Challenge #29: Input - Guess Game",
+    "module": "Class 7: Input",
+    "url": "https://lms.zebrarobotics.com/courses/2111/assignments/41916"
+  },
+  {
+    "name": "Challenge #30: Input - Return of the Llamas",
+    "module": "Class 7: Input",
+    "url": "https://lms.zebrarobotics.com/courses/2111/assignments/41917"
+  },
+  {
+    "name": "Challenge #31: Input - You Say Checkers Board I Say Chess Board",
+    "module": "Class 7: Input",
+    "url": "https://lms.zebrarobotics.com/courses/2111/assignments/41918"
+  },
+  {
+    "name": "Challenge 32: Functions - More Farms",
+    "module": "Class 8: Functions",
+    "url": "https://lms.zebrarobotics.com/courses/2111/assignments/41919"
+  },
+  {
+    "name": "Challenge 33: Functions - Summon The Agent with Functions",
+    "module": "Class 8: Functions",
+    "url": "https://lms.zebrarobotics.com/courses/2111/assignments/41920"
+  },
+  {
+    "name": "Challenge 34: Functions - Maze Solver 3000",
+    "module": "Class 8: Functions",
+    "url": "https://lms.zebrarobotics.com/courses/2111/assignments/41921"
+  },
+  {
+    "name": "Challenge 35: Functions - Yellow Brick Road",
+    "module": "Class 8: Functions",
+    "url": "https://lms.zebrarobotics.com/courses/2111/assignments/41922"
+  },
+  {
+    "name": "Challenge 36: Functions - Follow Yellow Brick Road",
+    "module": "Class 8: Functions",
+    "url": "https://lms.zebrarobotics.com/courses/2111/assignments/41923"
+  },
+  {
+    "name": "Challenge 37: Functions - Auto-Builder 9000",
+    "module": "Class 8: Functions",
+    "url": "https://lms.zebrarobotics.com/courses/2111/assignments/41924"
+  },
+  {
+    "name": "Sub Challenge #01.1: Mineshaft Construction",
+    "module": "Super Challenges",
+    "url": "https://lms.zebrarobotics.com/courses/2111/assignments/41928"
+  },
+  {
+    "name": "Sub Challenge #01.2: Lighting the Way",
+    "module": "Super Challenges",
+    "url": "https://lms.zebrarobotics.com/courses/2111/assignments/41929"
+  },
+  {
+    "name": "Sub Challenge #01.3: Laying Rails",
+    "module": "Super Challenges",
+    "url": "https://lms.zebrarobotics.com/courses/2111/assignments/41930"
+  },
+  {
+    "name": "Sub Challenge #01.4: Builder Complete!",
+    "module": "Super Challenges",
+    "url": "https://lms.zebrarobotics.com/courses/2111/assignments/41931"
+  },
+  {
+    "name": "Super Challenge #01: Railroad",
+    "module": "Super Challenges",
+    "url": "https://lms.zebrarobotics.com/courses/2111/assignments/41932"
+  },
+  {
+    "name": "Challenge #1000: Finished Level",
+    "module": "Level Completion",
+    "url": "https://lms.zebrarobotics.com/courses/2111/assignments/41889"
+  },
+  {
+    "name": "(OLD) Challenge #18: Conditional Statements - Weeds vs Plants",
+    "module": "Under Construction",
+    "url": "https://lms.zebrarobotics.com/courses/2111/assignments/41926"
+  },
+  {
+    "name": "Challenge #24.2: Input - Ask for Input Solution",
+    "module": "(not in a module)",
+    "url": "https://lms.zebrarobotics.com/courses/2111/assignments/41908"
+  },
+  {
+    "name": "Obtaining Minecraft Education Edition Licenses",
+    "module": "(not in a module)",
+    "url": "https://lms.zebrarobotics.com/courses/2111/assignments/41925"
+  },
+  {
+    "name": "Setting Up Microsoft 365 Account",
+    "module": "(not in a module)",
+    "url": "https://lms.zebrarobotics.com/courses/2111/assignments/41927"
+  }
+]
